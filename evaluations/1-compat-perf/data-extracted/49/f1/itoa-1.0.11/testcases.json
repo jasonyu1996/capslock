@@ -1,0 +1,47 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      "test>test_i128_max": false,
+      "test>test_i128_min": false,
+      "test>test_i16_0": false,
+      "test>test_i16_min": false,
+      "test>test_i64_min": false,
+      "test>test_u128_0": false,
+      "test>test_u128_max": false,
+      "test>test_u64_0": false,
+      "test>test_u64_half": false,
+      "test>test_u64_max": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      "test>test_i128_max": false,
+      "test>test_i128_min": false,
+      "test>test_i16_0": false,
+      "test>test_i16_min": false,
+      "test>test_i64_min": false,
+      "test>test_u128_0": false,
+      "test>test_u128_max": false,
+      "test>test_u64_0": false,
+      "test>test_u64_half": false,
+      "test>test_u64_max": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      "test>test_i128_max": false,
+      "test>test_i128_min": false,
+      "test>test_i16_0": false,
+      "test>test_i16_min": false,
+      "test>test_i64_min": false,
+      "test>test_u128_0": false,
+      "test>test_u128_max": false,
+      "test>test_u64_0": false,
+      "test>test_u64_half": false,
+      "test>test_u64_max": false
+    }
+  }
+}

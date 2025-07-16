@@ -1,0 +1,35 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">block::test::blockrng64_next_u32_vs_next_u64": false,
+      ">block::test::blockrng_next_u32_vs_next_u64": false,
+      ">impls::test::test_fill_via_u32_chunks": false,
+      ">impls::test::test_fill_via_u64_chunks": false,
+      ">le::test_read": false,
+      ">test::test_seed_from_u64": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">block::test::blockrng64_next_u32_vs_next_u64": false,
+      ">block::test::blockrng_next_u32_vs_next_u64": false,
+      ">impls::test::test_fill_via_u32_chunks": false,
+      ">impls::test::test_fill_via_u64_chunks": false,
+      ">le::test_read": false,
+      ">test::test_seed_from_u64": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">block::test::blockrng64_next_u32_vs_next_u64": false,
+      ">block::test::blockrng_next_u32_vs_next_u64": false,
+      ">impls::test::test_fill_via_u32_chunks": false,
+      ">impls::test::test_fill_via_u64_chunks": false,
+      ">le::test_read": false,
+      ">test::test_seed_from_u64": false
+    }
+  }
+}

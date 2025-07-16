@@ -1,0 +1,20 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">test::basic_tests": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">test::basic_tests": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">test::basic_tests": false
+    }
+  }
+}

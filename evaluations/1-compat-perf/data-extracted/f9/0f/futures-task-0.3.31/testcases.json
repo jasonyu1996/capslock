@@ -1,0 +1,20 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">noop_waker::tests::issue_2091_cross_thread_segfault": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">noop_waker::tests::issue_2091_cross_thread_segfault": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">noop_waker::tests::issue_2091_cross_thread_segfault": false
+    }
+  }
+}

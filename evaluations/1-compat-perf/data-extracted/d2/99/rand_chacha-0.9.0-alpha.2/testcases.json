@@ -1,0 +1,53 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">chacha::test::test_chacha_clone_streams": false,
+      ">chacha::test::test_chacha_construction": false,
+      ">chacha::test::test_chacha_multiple_blocks": false,
+      ">chacha::test::test_chacha_nonce": false,
+      ">chacha::test::test_chacha_true_bytes": false,
+      ">chacha::test::test_chacha_true_values_a": false,
+      ">chacha::test::test_chacha_true_values_b": false,
+      ">chacha::test::test_chacha_true_values_c": false,
+      ">chacha::test::test_chacha_word_pos_wrap_exact": false,
+      ">chacha::test::test_chacha_word_pos_wrap_excess": false,
+      ">chacha::test::test_chacha_word_pos_zero": false,
+      ">chacha::test::test_trait_objects": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">chacha::test::test_chacha_clone_streams": false,
+      ">chacha::test::test_chacha_construction": false,
+      ">chacha::test::test_chacha_multiple_blocks": false,
+      ">chacha::test::test_chacha_nonce": false,
+      ">chacha::test::test_chacha_true_bytes": false,
+      ">chacha::test::test_chacha_true_values_a": false,
+      ">chacha::test::test_chacha_true_values_b": false,
+      ">chacha::test::test_chacha_true_values_c": false,
+      ">chacha::test::test_chacha_word_pos_wrap_exact": false,
+      ">chacha::test::test_chacha_word_pos_wrap_excess": false,
+      ">chacha::test::test_chacha_word_pos_zero": false,
+      ">chacha::test::test_trait_objects": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">chacha::test::test_chacha_clone_streams": false,
+      ">chacha::test::test_chacha_construction": false,
+      ">chacha::test::test_chacha_multiple_blocks": false,
+      ">chacha::test::test_chacha_nonce": false,
+      ">chacha::test::test_chacha_true_bytes": false,
+      ">chacha::test::test_chacha_true_values_a": false,
+      ">chacha::test::test_chacha_true_values_b": false,
+      ">chacha::test::test_chacha_true_values_c": false,
+      ">chacha::test::test_chacha_word_pos_wrap_exact": false,
+      ">chacha::test::test_chacha_word_pos_wrap_excess": false,
+      ">chacha::test::test_chacha_word_pos_zero": false,
+      ">chacha::test::test_trait_objects": false
+    }
+  }
+}

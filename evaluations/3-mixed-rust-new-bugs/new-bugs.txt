@@ -1,0 +1,8 @@
+corgi
+jpegli
+generator
+libipt
+vorbis_rs
+cargo-wix
+quinn
+cadical

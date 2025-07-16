@@ -1,0 +1,47 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">sockaddr::tests::ipv4": false,
+      ">sockaddr::tests::ipv4_eq": false,
+      ">sockaddr::tests::ipv4_hash": false,
+      ">sockaddr::tests::ipv4_ipv6_eq": false,
+      ">sockaddr::tests::ipv4_ipv6_hash": false,
+      ">sockaddr::tests::ipv6": false,
+      ">sockaddr::tests::ipv6_eq": false,
+      ">sockaddr::tests::ipv6_hash": false,
+      ">sys::in6_addr_convertion": false,
+      ">sys::in_addr_convertion": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">sockaddr::tests::ipv4": false,
+      ">sockaddr::tests::ipv4_eq": false,
+      ">sockaddr::tests::ipv4_hash": false,
+      ">sockaddr::tests::ipv4_ipv6_eq": false,
+      ">sockaddr::tests::ipv4_ipv6_hash": false,
+      ">sockaddr::tests::ipv6": false,
+      ">sockaddr::tests::ipv6_eq": false,
+      ">sockaddr::tests::ipv6_hash": false,
+      ">sys::in6_addr_convertion": false,
+      ">sys::in_addr_convertion": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">sockaddr::tests::ipv4": false,
+      ">sockaddr::tests::ipv4_eq": false,
+      ">sockaddr::tests::ipv4_hash": false,
+      ">sockaddr::tests::ipv4_ipv6_eq": false,
+      ">sockaddr::tests::ipv4_ipv6_hash": false,
+      ">sockaddr::tests::ipv6": false,
+      ">sockaddr::tests::ipv6_eq": false,
+      ">sockaddr::tests::ipv6_hash": false,
+      ">sys::in6_addr_convertion": false,
+      ">sys::in_addr_convertion": false
+    }
+  }
+}

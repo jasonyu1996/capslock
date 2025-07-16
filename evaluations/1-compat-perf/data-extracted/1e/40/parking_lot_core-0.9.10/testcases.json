@@ -1,0 +1,53 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">parking_lot::tests::hundred_unpark_all_one": false,
+      ">parking_lot::tests::hundred_unpark_all_one_fast": false,
+      ">parking_lot::tests::unpark_all_hundred": false,
+      ">parking_lot::tests::unpark_all_hundred_fast": false,
+      ">parking_lot::tests::unpark_all_one": false,
+      ">parking_lot::tests::unpark_all_one_fast": false,
+      ">parking_lot::tests::unpark_one_fifty": false,
+      ">parking_lot::tests::unpark_one_fifty_then_fifty_all": false,
+      ">parking_lot::tests::unpark_one_fifty_then_fifty_all_fast": false,
+      ">parking_lot::tests::unpark_one_hundred_fast": false,
+      ">parking_lot::tests::unpark_one_one": false,
+      ">parking_lot::tests::unpark_one_one_fast": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">parking_lot::tests::hundred_unpark_all_one": false,
+      ">parking_lot::tests::hundred_unpark_all_one_fast": false,
+      ">parking_lot::tests::unpark_all_hundred": false,
+      ">parking_lot::tests::unpark_all_hundred_fast": false,
+      ">parking_lot::tests::unpark_all_one": false,
+      ">parking_lot::tests::unpark_all_one_fast": false,
+      ">parking_lot::tests::unpark_one_fifty": false,
+      ">parking_lot::tests::unpark_one_fifty_then_fifty_all": false,
+      ">parking_lot::tests::unpark_one_fifty_then_fifty_all_fast": false,
+      ">parking_lot::tests::unpark_one_hundred_fast": false,
+      ">parking_lot::tests::unpark_one_one": false,
+      ">parking_lot::tests::unpark_one_one_fast": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">parking_lot::tests::hundred_unpark_all_one": false,
+      ">parking_lot::tests::hundred_unpark_all_one_fast": false,
+      ">parking_lot::tests::unpark_all_hundred": false,
+      ">parking_lot::tests::unpark_all_hundred_fast": false,
+      ">parking_lot::tests::unpark_all_one": false,
+      ">parking_lot::tests::unpark_all_one_fast": false,
+      ">parking_lot::tests::unpark_one_fifty": false,
+      ">parking_lot::tests::unpark_one_fifty_then_fifty_all": false,
+      ">parking_lot::tests::unpark_one_fifty_then_fifty_all_fast": false,
+      ">parking_lot::tests::unpark_one_hundred_fast": false,
+      ">parking_lot::tests::unpark_one_one": false,
+      ">parking_lot::tests::unpark_one_one_fast": false
+    }
+  }
+}

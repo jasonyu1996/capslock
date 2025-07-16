@@ -1,0 +1,26 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">impls::tests::test_from_inference": false,
+      ">iter::test::test_send_iter": false,
+      ">test::test_assembly": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">impls::tests::test_from_inference": false,
+      ">iter::test::test_send_iter": false,
+      ">test::test_assembly": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">impls::tests::test_from_inference": false,
+      ">iter::test::test_send_iter": false,
+      ">test::test_assembly": false
+    }
+  }
+}

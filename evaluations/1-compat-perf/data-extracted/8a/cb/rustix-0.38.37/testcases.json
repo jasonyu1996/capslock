@@ -1,0 +1,31 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">cstr::test_cstr": false,
+      ">cstr::test_invalid_cstr": false,
+      ">cstr::test_invalid_empty_cstr": false,
+      ">ioctl::linux::check_known_opcodes": false,
+      ">weak::libc::test_abi": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">cstr::test_cstr": false,
+      ">cstr::test_invalid_cstr": false,
+      ">cstr::test_invalid_empty_cstr": false,
+      ">ioctl::linux::check_known_opcodes": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">cstr::test_cstr": false,
+      ">cstr::test_invalid_cstr": false,
+      ">cstr::test_invalid_empty_cstr": false,
+      ">ioctl::linux::check_known_opcodes": false,
+      ">weak::libc::test_abi": false
+    }
+  }
+}

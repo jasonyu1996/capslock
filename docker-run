@@ -1,0 +1,5 @@
+#!/bin/sh
+
+
+docker run --rm -v $(realpath "src"):/capslock-tools -v $(realpath "$1"):/binary capslock \
+    capslockrun /binary

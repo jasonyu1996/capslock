@@ -1,0 +1,20 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">tests::test_android_clang_compiler_uses_target_arg_internally": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">tests::test_android_clang_compiler_uses_target_arg_internally": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">tests::test_android_clang_compiler_uses_target_arg_internally": false
+    }
+  }
+}

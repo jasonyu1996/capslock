@@ -1,0 +1,3 @@
+#!/bin/sh
+
+cargo +capslock build --target=riscv64gc-unknown-linux-gnu $@

@@ -1,0 +1,23 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">internals::case::rename_fields": false,
+      ">internals::case::rename_variants": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">internals::case::rename_fields": false,
+      ">internals::case::rename_variants": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">internals::case::rename_fields": false,
+      ">internals::case::rename_variants": false
+    }
+  }
+}

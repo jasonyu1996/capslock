@@ -1,0 +1,26 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">decoder::decoder_impl::test::decoder_handles_io_failures": false,
+      ">encoder::encoder_impl::test::encoder_builder_renews_stream_serials": false,
+      "regression_tests>issue_17": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">decoder::decoder_impl::test::decoder_handles_io_failures": false,
+      ">encoder::encoder_impl::test::encoder_builder_renews_stream_serials": false,
+      "regression_tests>issue_17": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">decoder::decoder_impl::test::decoder_handles_io_failures": false,
+      ">encoder::encoder_impl::test::encoder_builder_renews_stream_serials": false,
+      "regression_tests>issue_17": false
+    }
+  }
+}

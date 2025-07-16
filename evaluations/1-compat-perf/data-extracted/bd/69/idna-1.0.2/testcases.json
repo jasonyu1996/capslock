@@ -1,0 +1,65 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">punycode::huge_encode": true,
+      "unit>emoji_domains": false,
+      "unit>test_examples": false,
+      "unit>test_punycode_invalid_encoding": false,
+      "unit>test_punycode_prefix_with_length_check": false,
+      "unit>test_punycode_prefix_without_length_check": false,
+      "unit>test_v5": false,
+      "unit>test_v8_bidi_rules": false,
+      "unit>unicode_before_delimiter": false,
+      "unitbis>emoji_domains": false,
+      "unitbis>test_punycode_prefix_with_length_check": false,
+      "unitbis>test_punycode_prefix_without_length_check": false,
+      "unitbis>test_v5": false,
+      "unitbis>test_v8_bidi_rules": false,
+      "unitbis>unicode_before_delimiter": false,
+      "unitbis>upper_case_ascii_in_punycode": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">punycode::huge_encode": true,
+      "unit>emoji_domains": false,
+      "unit>test_examples": false,
+      "unit>test_punycode_invalid_encoding": false,
+      "unit>test_punycode_prefix_with_length_check": false,
+      "unit>test_punycode_prefix_without_length_check": false,
+      "unit>test_v5": false,
+      "unit>test_v8_bidi_rules": false,
+      "unit>unicode_before_delimiter": false,
+      "unitbis>emoji_domains": false,
+      "unitbis>test_punycode_prefix_with_length_check": false,
+      "unitbis>test_punycode_prefix_without_length_check": false,
+      "unitbis>test_v5": false,
+      "unitbis>test_v8_bidi_rules": false,
+      "unitbis>unicode_before_delimiter": false,
+      "unitbis>upper_case_ascii_in_punycode": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">punycode::huge_encode": true,
+      "unit>emoji_domains": false,
+      "unit>test_examples": false,
+      "unit>test_punycode_invalid_encoding": false,
+      "unit>test_punycode_prefix_with_length_check": false,
+      "unit>test_punycode_prefix_without_length_check": false,
+      "unit>test_v5": false,
+      "unit>test_v8_bidi_rules": false,
+      "unit>unicode_before_delimiter": false,
+      "unitbis>emoji_domains": false,
+      "unitbis>test_punycode_prefix_with_length_check": false,
+      "unitbis>test_punycode_prefix_without_length_check": false,
+      "unitbis>test_v5": false,
+      "unitbis>test_v8_bidi_rules": false,
+      "unitbis>unicode_before_delimiter": false,
+      "unitbis>upper_case_ascii_in_punycode": false
+    }
+  }
+}

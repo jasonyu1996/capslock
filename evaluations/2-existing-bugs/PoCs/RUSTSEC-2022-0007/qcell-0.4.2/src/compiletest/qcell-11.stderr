@@ -1,0 +1,21 @@
+error[E0277]: `Rc<()>` cannot be sent between threads safely
+ --> $DIR/qcell-11.rs:8:5
+  |
+7 |     fn is_sync<T: Sync>() {}
+  |                   ---- required by this bound in `is_sync`
+8 |     is_sync::<QCell<Rc<()>>>();  // Compile fail
+  |     ^^^^^^^^^^^^^^^^^^^^^^^^ `Rc<()>` cannot be sent between threads safely
+  |
+  = help: the trait `Send` is not implemented for `Rc<()>`
+  = note: required because of the requirements on the impl of `Sync` for `QCell<Rc<()>>`
+
+error[E0277]: `Rc<()>` cannot be shared between threads safely
+ --> $DIR/qcell-11.rs:8:5
+  |
+7 |     fn is_sync<T: Sync>() {}
+  |                   ---- required by this bound in `is_sync`
+8 |     is_sync::<QCell<Rc<()>>>();  // Compile fail
+  |     ^^^^^^^^^^^^^^^^^^^^^^^^ `Rc<()>` cannot be shared between threads safely
+  |
+  = help: the trait `Sync` is not implemented for `Rc<()>`
+  = note: required because of the requirements on the impl of `Sync` for `QCell<Rc<()>>`

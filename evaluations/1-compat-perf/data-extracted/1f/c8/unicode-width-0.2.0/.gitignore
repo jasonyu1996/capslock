@@ -1,0 +1,5 @@
+target
+scripts/tmp
+scripts/*.txt
+scripts/*.rs
+bench_data/*

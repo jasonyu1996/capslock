@@ -1,0 +1,74 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">arrayvec::test::retain_mut_all_elements": false,
+      ">arrayvec::test::retain_mut_empty_vec": false,
+      ">arrayvec::test::retain_mut_no_elements": false,
+      ">arrayvec::test::retain_mut_some_elements": false,
+      ">arrayvec::test::retain_mut_zero_capacity": false,
+      "arrayvec>ArrayVec_append": false,
+      "arrayvec>ArrayVec_drain": false,
+      "arrayvec>ArrayVec_formatting": false,
+      "arrayvec>ArrayVec_iteration": false,
+      "arrayvec>ArrayVec_pretty_debug": false,
+      "arrayvec>ArrayVec_push_overflow": false,
+      "arrayvec>ArrayVec_push_pop": false,
+      "arrayvec>ArrayVec_remove": false,
+      "arrayvec>ArrayVec_remove_invalid": false,
+      "arrayvec>ArrayVec_splice": false,
+      "arrayvec>ArrayVec_swap_remove": false,
+      "arrayvec>ArrayVec_try_from_slice": false,
+      "arrayvec>iter_last_nth": false,
+      "arrayvec>test_a_vec": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">arrayvec::test::retain_mut_all_elements": false,
+      ">arrayvec::test::retain_mut_empty_vec": false,
+      ">arrayvec::test::retain_mut_no_elements": false,
+      ">arrayvec::test::retain_mut_some_elements": false,
+      ">arrayvec::test::retain_mut_zero_capacity": false,
+      "arrayvec>ArrayVec_append": false,
+      "arrayvec>ArrayVec_drain": false,
+      "arrayvec>ArrayVec_formatting": false,
+      "arrayvec>ArrayVec_iteration": false,
+      "arrayvec>ArrayVec_pretty_debug": false,
+      "arrayvec>ArrayVec_push_overflow": false,
+      "arrayvec>ArrayVec_push_pop": false,
+      "arrayvec>ArrayVec_remove": false,
+      "arrayvec>ArrayVec_remove_invalid": false,
+      "arrayvec>ArrayVec_splice": false,
+      "arrayvec>ArrayVec_swap_remove": false,
+      "arrayvec>ArrayVec_try_from_slice": false,
+      "arrayvec>iter_last_nth": false,
+      "arrayvec>test_a_vec": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">arrayvec::test::retain_mut_all_elements": false,
+      ">arrayvec::test::retain_mut_empty_vec": false,
+      ">arrayvec::test::retain_mut_no_elements": false,
+      ">arrayvec::test::retain_mut_some_elements": false,
+      ">arrayvec::test::retain_mut_zero_capacity": false,
+      "arrayvec>ArrayVec_append": false,
+      "arrayvec>ArrayVec_drain": false,
+      "arrayvec>ArrayVec_formatting": false,
+      "arrayvec>ArrayVec_iteration": false,
+      "arrayvec>ArrayVec_pretty_debug": false,
+      "arrayvec>ArrayVec_push_overflow": false,
+      "arrayvec>ArrayVec_push_pop": false,
+      "arrayvec>ArrayVec_remove": false,
+      "arrayvec>ArrayVec_remove_invalid": false,
+      "arrayvec>ArrayVec_splice": false,
+      "arrayvec>ArrayVec_swap_remove": false,
+      "arrayvec>ArrayVec_try_from_slice": false,
+      "arrayvec>iter_last_nth": false,
+      "arrayvec>test_a_vec": false
+    }
+  }
+}

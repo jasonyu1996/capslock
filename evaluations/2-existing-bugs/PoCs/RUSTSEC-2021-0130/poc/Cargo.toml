@@ -1,0 +1,8 @@
+[package]
+name = "poc"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+
+lru = { path = "../lru-0.7.0" }

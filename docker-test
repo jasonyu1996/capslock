@@ -1,0 +1,14 @@
+#!/bin/sh
+
+echo "Building helloworld..."
+./docker-build tests/helloworld
+
+echo "Running helloworld..."
+./docker-run tests/helloworld/target/riscv64gc-unknown-linux-gnu/debug/helloworld
+
+echo "Building violation..."
+./docker-build tests/violation
+
+echo "Running violation..."
+./docker-run tests/violation/target/riscv64gc-unknown-linux-gnu/debug/violation
+

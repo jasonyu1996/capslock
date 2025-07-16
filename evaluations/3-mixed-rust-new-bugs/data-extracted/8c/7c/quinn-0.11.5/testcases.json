@@ -1,0 +1,74 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">tests::close_endpoint": false,
+      ">tests::echo_dualstack": false,
+      ">tests::echo_v4": false,
+      ">tests::echo_v6": false,
+      ">tests::export_keying_material": false,
+      ">tests::handshake_timeout": false,
+      ">tests::ip_blocking": false,
+      ">tests::local_addr": false,
+      ">tests::multiple_conns_with_zero_length_cids": false,
+      ">tests::read_after_close": false,
+      ">tests::rebind_recv": false,
+      ">tests::stream_id_flow_control": false,
+      ">tests::stress_both_windows": false,
+      ">tests::stress_receive_window": false,
+      ">tests::stress_stream_receive_window": false,
+      ">tests::two_datagram_readers": false,
+      ">tests::zero_rtt": false,
+      ">work_limiter::tests::limit_work": false,
+      "many_connections>connect_n_nodes_to_1_and_send_1mb_data": true
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">tests::close_endpoint": false,
+      ">tests::echo_dualstack": false,
+      ">tests::echo_v4": false,
+      ">tests::echo_v6": false,
+      ">tests::export_keying_material": false,
+      ">tests::handshake_timeout": false,
+      ">tests::ip_blocking": false,
+      ">tests::local_addr": false,
+      ">tests::multiple_conns_with_zero_length_cids": false,
+      ">tests::read_after_close": false,
+      ">tests::rebind_recv": false,
+      ">tests::stream_id_flow_control": false,
+      ">tests::stress_both_windows": false,
+      ">tests::stress_receive_window": false,
+      ">tests::stress_stream_receive_window": false,
+      ">tests::two_datagram_readers": false,
+      ">tests::zero_rtt": false,
+      ">work_limiter::tests::limit_work": false,
+      "many_connections>connect_n_nodes_to_1_and_send_1mb_data": true
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">tests::close_endpoint": false,
+      ">tests::echo_dualstack": false,
+      ">tests::echo_v4": false,
+      ">tests::echo_v6": false,
+      ">tests::export_keying_material": false,
+      ">tests::handshake_timeout": false,
+      ">tests::ip_blocking": false,
+      ">tests::local_addr": false,
+      ">tests::multiple_conns_with_zero_length_cids": false,
+      ">tests::read_after_close": false,
+      ">tests::rebind_recv": false,
+      ">tests::stream_id_flow_control": false,
+      ">tests::stress_both_windows": false,
+      ">tests::stress_receive_window": false,
+      ">tests::stress_stream_receive_window": false,
+      ">tests::two_datagram_readers": false,
+      ">tests::zero_rtt": false,
+      ">work_limiter::tests::limit_work": false,
+      "many_connections>connect_n_nodes_to_1_and_send_1mb_data": true
+    }
+  }
+}

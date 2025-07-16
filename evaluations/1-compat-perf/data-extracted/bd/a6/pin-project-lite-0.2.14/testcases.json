@@ -1,0 +1,36 @@
+{
+  "capslock": {
+    "success": false,
+    "tests": {}
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      "drop_order>enum_struct": false,
+      "drop_order>project_replace_panic": false,
+      "drop_order>struct_pinned": false,
+      "drop_order>struct_unpinned": false,
+      "test>attrs": false,
+      "test>derive_copy": false,
+      "test>dst": false,
+      "test>dyn_type": false,
+      "test>enum_project_set": false,
+      "test>lifetime_project": false,
+      "test>move_out": false,
+      "test>no_infer_outlives": false,
+      "test>pinned_drop": false,
+      "test>private_type_in_public_type": false,
+      "test>projection": false,
+      "test>trailing_comma": false,
+      "test>trait_bounds_on_type_generics": false,
+      "test>trivial_bounds": false,
+      "test>visibility": false,
+      "test>where_clause": false,
+      "test>where_clause_and_associated_type_field": false
+    }
+  },
+  "x86_64": {
+    "success": false,
+    "tests": {}
+  }
+}

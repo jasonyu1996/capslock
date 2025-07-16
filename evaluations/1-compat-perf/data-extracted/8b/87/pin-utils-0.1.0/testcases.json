@@ -1,0 +1,23 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      "projection>projection": false,
+      "stack_pin>stack_pin": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      "projection>projection": false,
+      "stack_pin>stack_pin": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      "projection>projection": false,
+      "stack_pin>stack_pin": false
+    }
+  }
+}

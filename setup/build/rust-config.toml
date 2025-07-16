@@ -1,0 +1,36 @@
+# Includes one of the default files in src/bootstrap/defaults
+profile = "dist"
+change-id = 121976
+
+[rust]
+
+#optimize = 0
+
+[llvm]
+
+download-ci-llvm = false
+targets = "RISCV;X86"
+link-shared = true
+
+[build]
+
+target = ["riscv64gc-unknown-linux-gnu"]
+build-stage = 2
+tools = ["cargo"]
+extended = true
+
+docs = true
+library-docs-private-items = true
+
+[install]
+
+prefix = "./installation/usr"
+sysconfdir = "./installation/etc"
+
+[target.riscv64gc-unknown-linux-gnu]
+llvm-config = "LLVM_LOCATION/installation/bin/llvm-config"
+
+[target.x86_64-unknown-linux-gnu]
+llvm-config = "LLVM_LOCATION/installation/bin/llvm-config"
+
+

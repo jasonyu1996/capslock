@@ -1,0 +1,56 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      "char>test_char": false,
+      "smoke>bool": false,
+      "smoke>choice": false,
+      "smoke>choose_multiple": false,
+      "smoke>fill": false,
+      "smoke>i8": false,
+      "smoke>rng": false,
+      "smoke>rng_init": false,
+      "smoke>u128": false,
+      "smoke>u32": false,
+      "smoke>u64": false,
+      "smoke>u8": false,
+      "smoke>with_seed": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      "char>test_char": false,
+      "smoke>bool": false,
+      "smoke>choice": false,
+      "smoke>choose_multiple": false,
+      "smoke>fill": false,
+      "smoke>i8": false,
+      "smoke>rng": false,
+      "smoke>rng_init": false,
+      "smoke>u128": false,
+      "smoke>u32": false,
+      "smoke>u64": false,
+      "smoke>u8": false,
+      "smoke>with_seed": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      "char>test_char": false,
+      "smoke>bool": false,
+      "smoke>choice": false,
+      "smoke>choose_multiple": false,
+      "smoke>fill": false,
+      "smoke>i8": false,
+      "smoke>rng": false,
+      "smoke>rng_init": false,
+      "smoke>u128": false,
+      "smoke>u32": false,
+      "smoke>u64": false,
+      "smoke>u8": false,
+      "smoke>with_seed": false
+    }
+  }
+}

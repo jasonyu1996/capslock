@@ -1,0 +1,83 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">deflate::core::test::compress_fast": false,
+      ">deflate::core::test::compress_output": false,
+      ">deflate::core::test::u16_from_slice": false,
+      ">deflate::core::test::u16_to_slice": false,
+      ">deflate::core::zlib::test::test_header": false,
+      ">deflate::core::zlib::test::zlib": false,
+      ">deflate::stream::test::test_state": false,
+      ">deflate::test::compress_huff_only": false,
+      ">deflate::test::compress_raw": false,
+      ">deflate::test::compress_small": false,
+      ">deflate::test::short": false,
+      ">inflate::core::test::bogus_input": false,
+      ">inflate::core::test::decompress_zlib": false,
+      ">inflate::core::test::empty_output_buffer_non_wrapping": false,
+      ">inflate::core::test::empty_output_buffer_wrapping": false,
+      ">inflate::core::test::fixed_table_lookup": false,
+      ">inflate::core::test::raw_block": false,
+      ">inflate::stream::test::test_state": false,
+      ">inflate::test::decompress_vec": false,
+      ">inflate::test::decompress_vec_with_high_limit": false,
+      ">inflate::test::fail_to_decompress_with_limit": false,
+      ">inflate::test::test_decompress_slice_iter_to_slice": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">deflate::core::test::compress_fast": false,
+      ">deflate::core::test::compress_output": false,
+      ">deflate::core::test::u16_from_slice": false,
+      ">deflate::core::test::u16_to_slice": false,
+      ">deflate::core::zlib::test::test_header": false,
+      ">deflate::core::zlib::test::zlib": false,
+      ">deflate::stream::test::test_state": false,
+      ">deflate::test::compress_huff_only": false,
+      ">deflate::test::compress_raw": false,
+      ">deflate::test::compress_small": false,
+      ">deflate::test::short": false,
+      ">inflate::core::test::bogus_input": false,
+      ">inflate::core::test::decompress_zlib": false,
+      ">inflate::core::test::empty_output_buffer_non_wrapping": false,
+      ">inflate::core::test::empty_output_buffer_wrapping": false,
+      ">inflate::core::test::fixed_table_lookup": false,
+      ">inflate::core::test::raw_block": false,
+      ">inflate::stream::test::test_state": false,
+      ">inflate::test::decompress_vec": false,
+      ">inflate::test::decompress_vec_with_high_limit": false,
+      ">inflate::test::fail_to_decompress_with_limit": false,
+      ">inflate::test::test_decompress_slice_iter_to_slice": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">deflate::core::test::compress_fast": false,
+      ">deflate::core::test::compress_output": false,
+      ">deflate::core::test::u16_from_slice": false,
+      ">deflate::core::test::u16_to_slice": false,
+      ">deflate::core::zlib::test::test_header": false,
+      ">deflate::core::zlib::test::zlib": false,
+      ">deflate::stream::test::test_state": false,
+      ">deflate::test::compress_huff_only": false,
+      ">deflate::test::compress_raw": false,
+      ">deflate::test::compress_small": false,
+      ">deflate::test::short": false,
+      ">inflate::core::test::bogus_input": false,
+      ">inflate::core::test::decompress_zlib": false,
+      ">inflate::core::test::empty_output_buffer_non_wrapping": false,
+      ">inflate::core::test::empty_output_buffer_wrapping": false,
+      ">inflate::core::test::fixed_table_lookup": false,
+      ">inflate::core::test::raw_block": false,
+      ">inflate::stream::test::test_state": false,
+      ">inflate::test::decompress_vec": false,
+      ">inflate::test::decompress_vec_with_high_limit": false,
+      ">inflate::test::fail_to_decompress_with_limit": false,
+      ">inflate::test::test_decompress_slice_iter_to_slice": false
+    }
+  }
+}

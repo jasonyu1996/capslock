@@ -1,0 +1,38 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">tests::bad_limit": false,
+      ">tests::conflict_limit": false,
+      ">tests::decision_limit": false,
+      ">tests::fileio": false,
+      ">tests::moving": false,
+      ">tests::solver": false,
+      ">tests::timeout": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">tests::bad_limit": false,
+      ">tests::conflict_limit": false,
+      ">tests::decision_limit": false,
+      ">tests::fileio": false,
+      ">tests::moving": false,
+      ">tests::solver": false,
+      ">tests::timeout": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">tests::bad_limit": false,
+      ">tests::conflict_limit": false,
+      ">tests::decision_limit": false,
+      ">tests::fileio": false,
+      ">tests::moving": false,
+      ">tests::solver": false,
+      ">tests::timeout": false
+    }
+  }
+}

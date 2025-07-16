@@ -1,0 +1,46 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      "test>item_name_shadowing": false,
+      "test>lifetime_name": false,
+      "test>pre_init": false,
+      "test>s3": false,
+      "test>test_basic": false,
+      "test>test_meta": false,
+      "test>test_repeat": false,
+      "test>test_visibility": false,
+      "test>visibility::sub_test": false,
+      "ui>ui": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      "test>item_name_shadowing": false,
+      "test>lifetime_name": false,
+      "test>pre_init": false,
+      "test>s3": false,
+      "test>test_basic": false,
+      "test>test_meta": false,
+      "test>test_repeat": false,
+      "test>test_visibility": false,
+      "test>visibility::sub_test": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      "test>item_name_shadowing": false,
+      "test>lifetime_name": false,
+      "test>pre_init": false,
+      "test>s3": false,
+      "test>test_basic": false,
+      "test>test_meta": false,
+      "test>test_repeat": false,
+      "test>test_visibility": false,
+      "test>visibility::sub_test": false,
+      "ui>ui": false
+    }
+  }
+}

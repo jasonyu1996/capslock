@@ -1,0 +1,38 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">basic": false,
+      ">deref": false,
+      ">error": false,
+      ">iter": false,
+      ">macros": false,
+      ">read_write": false,
+      ">seek": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">basic": false,
+      ">deref": false,
+      ">error": false,
+      ">iter": false,
+      ">macros": false,
+      ">read_write": false,
+      ">seek": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">basic": false,
+      ">deref": false,
+      ">error": false,
+      ">iter": false,
+      ">macros": false,
+      ">read_write": false,
+      ">seek": false
+    }
+  }
+}

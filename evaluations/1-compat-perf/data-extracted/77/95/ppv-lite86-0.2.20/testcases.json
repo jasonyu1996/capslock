@@ -1,0 +1,31 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">generic::test::test_bswap32": false,
+      ">generic::test_rotate_u128": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">generic::test::test_bswap32": false,
+      ">generic::test_rotate_u128": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">x86_64::sse2::test::test_bswap32_s2_vs_s3": true,
+      ">x86_64::sse2::test::test_bswap64_s2_vs_s3": true,
+      ">x86_64::sse2::test::test_lanes_u32x4": true,
+      ">x86_64::sse2::test::test_lanes_u64x2": true,
+      ">x86_64::sse2::test::test_shuffle32_s2_vs_s3": true,
+      ">x86_64::sse2::test::test_shuffle64_s2_vs_s3": true,
+      ">x86_64::sse2::test::test_vec2_u64x2_s2": false,
+      ">x86_64::sse2::test::test_vec4_u32x4_s2": false,
+      ">x86_64::sse2::test::test_vec4_u32x4_s4": true,
+      ">x86_64::sse2::test::test_vec4_u64x2_s4": true
+    }
+  }
+}

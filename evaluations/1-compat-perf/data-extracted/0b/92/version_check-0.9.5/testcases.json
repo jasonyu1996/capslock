@@ -1,0 +1,47 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">date::tests::display": false,
+      ">tests::test_parse_current": false,
+      ">tests::test_stable_compatibility": false,
+      ">tests::test_verbose_version_parse": false,
+      ">tests::test_version_parse": false,
+      ">version::tests::display": false,
+      ">version::tests::test_comparisons": false,
+      ">version::tests::test_from_mmp": false,
+      ">version::tests::test_malformed": false,
+      ">version::tests::test_str_to_mmp": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">date::tests::display": false,
+      ">tests::test_parse_current": false,
+      ">tests::test_stable_compatibility": false,
+      ">tests::test_verbose_version_parse": false,
+      ">tests::test_version_parse": false,
+      ">version::tests::display": false,
+      ">version::tests::test_comparisons": false,
+      ">version::tests::test_from_mmp": false,
+      ">version::tests::test_malformed": false,
+      ">version::tests::test_str_to_mmp": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">date::tests::display": false,
+      ">tests::test_parse_current": false,
+      ">tests::test_stable_compatibility": false,
+      ">tests::test_verbose_version_parse": false,
+      ">tests::test_version_parse": false,
+      ">version::tests::display": false,
+      ">version::tests::test_comparisons": false,
+      ">version::tests::test_from_mmp": false,
+      ">version::tests::test_malformed": false,
+      ">version::tests::test_str_to_mmp": false
+    }
+  }
+}

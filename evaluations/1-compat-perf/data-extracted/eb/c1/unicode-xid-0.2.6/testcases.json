@@ -1,0 +1,35 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">tests::test_is_not_xid_continue": false,
+      ">tests::test_is_not_xid_start": false,
+      ">tests::test_is_xid_continue": false,
+      ">tests::test_is_xid_start": false,
+      "exhaustive_tests>all_valid_chars_do_not_panic_for_is_xid_continue": false,
+      "exhaustive_tests>all_valid_chars_do_not_panic_for_is_xid_start": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">tests::test_is_not_xid_continue": false,
+      ">tests::test_is_not_xid_start": false,
+      ">tests::test_is_xid_continue": false,
+      ">tests::test_is_xid_start": false,
+      "exhaustive_tests>all_valid_chars_do_not_panic_for_is_xid_continue": false,
+      "exhaustive_tests>all_valid_chars_do_not_panic_for_is_xid_start": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">tests::test_is_not_xid_continue": false,
+      ">tests::test_is_not_xid_start": false,
+      ">tests::test_is_xid_continue": false,
+      ">tests::test_is_xid_start": false,
+      "exhaustive_tests>all_valid_chars_do_not_panic_for_is_xid_continue": false,
+      "exhaustive_tests>all_valid_chars_do_not_panic_for_is_xid_start": false
+    }
+  }
+}

@@ -1,0 +1,8 @@
+#!/bin/sh
+
+export RUSTFLAGS="-C target-feature=+crt-static"
+export CARGO_TARGET_RISCV64GC_UNKNOWN_LINUX_GNU_LINKER="riscv64-linux-gnu-gcc"
+
+rustup toolchain link capslock /capslock-tools/rust/build/host/stage2 > /dev/null 2>&1 || true
+
+$@

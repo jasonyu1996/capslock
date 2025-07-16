@@ -1,0 +1,77 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">tests::dir_does_contain_target": false,
+      ">tests::dir_does_contain_target_with_custom_target_dir": false,
+      ">tests::dir_does_not_contain_target": false,
+      ">tests::dir_does_not_contain_target_with_custom_target_dir": false,
+      ">tests::version_cmp": false,
+      "no_std>no_std": false,
+      "rustflags>test_with_sysroot": false,
+      "tests>autocfg_version": false,
+      "tests>probe_add": false,
+      "tests>probe_alloc": false,
+      "tests>probe_as_ref": false,
+      "tests>probe_bad_sysroot_crate": false,
+      "tests>probe_constant": false,
+      "tests>probe_expression": false,
+      "tests>probe_i128": false,
+      "tests>probe_no_std": false,
+      "tests>probe_raw": false,
+      "tests>probe_std": false,
+      "tests>probe_sum": false,
+      "wrappers>test_wrappers": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">tests::dir_does_contain_target": false,
+      ">tests::dir_does_contain_target_with_custom_target_dir": false,
+      ">tests::dir_does_not_contain_target": false,
+      ">tests::dir_does_not_contain_target_with_custom_target_dir": false,
+      ">tests::version_cmp": false,
+      "no_std>no_std": false,
+      "rustflags>test_with_sysroot": false,
+      "tests>autocfg_version": false,
+      "tests>probe_add": false,
+      "tests>probe_alloc": false,
+      "tests>probe_as_ref": false,
+      "tests>probe_bad_sysroot_crate": false,
+      "tests>probe_constant": false,
+      "tests>probe_expression": false,
+      "tests>probe_i128": false,
+      "tests>probe_no_std": false,
+      "tests>probe_raw": false,
+      "tests>probe_std": false,
+      "tests>probe_sum": false,
+      "wrappers>test_wrappers": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">tests::dir_does_contain_target": false,
+      ">tests::dir_does_contain_target_with_custom_target_dir": false,
+      ">tests::dir_does_not_contain_target": false,
+      ">tests::dir_does_not_contain_target_with_custom_target_dir": false,
+      ">tests::version_cmp": false,
+      "no_std>no_std": false,
+      "rustflags>test_with_sysroot": false,
+      "tests>autocfg_version": false,
+      "tests>probe_add": false,
+      "tests>probe_alloc": false,
+      "tests>probe_as_ref": false,
+      "tests>probe_bad_sysroot_crate": false,
+      "tests>probe_constant": false,
+      "tests>probe_expression": false,
+      "tests>probe_i128": false,
+      "tests>probe_no_std": false,
+      "tests>probe_raw": false,
+      "tests>probe_std": false,
+      "tests>probe_sum": false,
+      "wrappers>test_wrappers": false
+    }
+  }
+}

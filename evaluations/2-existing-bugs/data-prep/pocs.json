@@ -1,0 +1,3434 @@
+[
+  {
+    "id": "RUSTSEC-2020-0089",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0114",
+    "likely_poc": [
+      "https://github.com/Absolucy/nanorand-rs/issues/28"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0129",
+    "likely_poc": [
+      "https://github.com/motoras/kekbit/issues/34"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0014",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0133",
+    "likely_poc": [
+      "https://github.com/rossdylan/rust-scottqueue/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0113",
+    "likely_poc": [
+      "https://github.com/metrics-rs/metrics/issues/190"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0320",
+    "likely_poc": [
+      "https://github.com/rustsec/advisory-db/issues/1921"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2018-0006",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0134",
+    "likely_poc": [
+      "https://github.com/hyyking/rustracts/pull/6"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0154",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0081",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0048",
+    "likely_poc": [
+      "https://github.com/actix/actix-web/issues/1321"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0141",
+    "likely_poc": [
+      "https://github.com/dotenv-rs/dotenv/issues/74"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0015",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0336",
+    "likely_poc": [
+      "https://github.com/rustls/rustls/security/advisories/GHSA-6g7w-8wpp-frhj"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0131",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0085",
+    "likely_poc": [
+      "https://github.com/matrix-org/matrix-rust-sdk/commit/093fb5d0aa21c0b5eaea6ec96b477f1075271cbb"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0356",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0043",
+    "likely_poc": [
+      "https://github.com/tower-rs/tower-http/pull/204"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0135",
+    "likely_poc": [
+      "https://github.com/tower-rs/tower-http/pull/204"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0025",
+    "likely_poc": [
+      "https://github.com/Byron/gitoxide/pull/741"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0119",
+    "likely_poc": [
+      "https://github.com/nix-rust/nix/issues/1541"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0151",
+    "likely_poc": [
+      "https://github.com/dimforge/ncollide"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0087",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2019-0029",
+    "likely_poc": [
+      "https://github.com/RustCrypto/stream-ciphers/pull/64"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0114",
+    "likely_poc": [
+      "https://github.com/video-audio/va-ts/issues/4"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0092",
+    "likely_poc": [
+      "https://github.com/kanidm/concread/issues/48"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0090",
+    "likely_poc": [
+      "https://github.com/MaikKlein/ash/issues/354"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0123",
+    "likely_poc": [
+      "https://github.com/nvzqz/fruity/issues/14"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0004",
+    "likely_poc": [
+      "https://github.com/alexcrichton/bzip2-rs/pull/86"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0121",
+    "likely_poc": [
+      "https://github.com/SonicFrog/abox/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0142",
+    "likely_poc": [
+      "https://github.com/dotenv-rs/dotenv/issues/74"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0071",
+    "likely_poc": [
+      "https://github.com/time-rs/time/issues/293"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0036",
+    "likely_poc": [
+      "https://github.com/rust-lang-nursery/failure/pull/347"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0036",
+    "likely_poc": [
+      "https://github.com/rust-lang-nursery/failure/issues/336"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0068",
+    "likely_poc": [
+      "https://dwrensha.github.io/capnproto-rust/2022/11/30/out_of_bounds_memory_access_bug.html"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0066",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2018-0005",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0006",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0086",
+    "likely_poc": [
+      "https://github.com/Alexhuszagh/rust-lexical/issues/102",
+      "https://github.com/Alexhuszagh/rust-lexical/issues/101",
+      "https://github.com/Alexhuszagh/rust-lexical/issues/95",
+      "https://github.com/Alexhuszagh/rust-lexical/issues/104"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0043",
+    "likely_poc": [
+      "https://github.com/mattnenterprise/rust-ftp/pull/92",
+      "https://github.com/mattnenterprise/rust-ftp/issues/84"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0106",
+    "likely_poc": [
+      "https://github.com/abbychau/multiqueue2/issues/10"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0141",
+    "likely_poc": [
+      "https://github.com/pipedown/noise/issues/72"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0027",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2018-0014",
+    "likely_poc": [
+      "https://github.com/BurntSushi/chan/commit/0a5c0d4ad4adc90a54ee04a427389acf2e157275"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0009",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0008",
+    "likely_poc": [
+      "https://github.com/hyperium/hyper/issues/1925"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0020",
+    "likely_poc": [
+      "https://github.com/hyperium/hyper/security/advisories/GHSA-6hfq-h8hq-87mf"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0022",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2016-0002",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2017-0002",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0078",
+    "likely_poc": [
+      "https://github.com/hyperium/hyper/security/advisories/GHSA-f3pg-qwvg-p99c"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0079",
+    "likely_poc": [
+      "https://github.com/hyperium/hyper/security/advisories/GHSA-5h46-h7hh-c6x9"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0067",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0010",
+    "likely_poc": [
+      "https://github.com/strake/containers.rs/issues/2"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0040",
+    "likely_poc": [
+      "https://github.com/ibabushkin/arenavec/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0061",
+    "likely_poc": [
+      "https://github.com/RustCrypto/block-ciphers/pull/200"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0055",
+    "likely_poc": [
+      "https://github.com/Alexhuszagh/rust-lexical/issues/102",
+      "https://github.com/Alexhuszagh/rust-lexical/issues/101",
+      "https://github.com/Alexhuszagh/rust-lexical/issues/95",
+      "https://github.com/Alexhuszagh/rust-lexical/issues/104"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0048",
+    "likely_poc": [
+      "https://github.com/netvl/xml-rs/issues/219",
+      "https://github.com/netvl/xml-rs/issues/210",
+      "https://github.com/netvl/xml-rs/issues/204"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0059",
+    "likely_poc": [
+      "https://github.com/ogham/rust-users/issues/55"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0040",
+    "likely_poc": [
+      "https://github.com/ogham/rust-users/issues/54"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0011",
+    "likely_poc": [
+      "https://docs.rs/plutonium"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0122",
+    "likely_poc": [
+      "https://github.com/maciejhirsz/beef/issues/37"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0346",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0076",
+    "likely_poc": [
+      "https://github.com/dgrunwald/rust-cpython/issues/265",
+      "https://github.com/dgrunwald/rust-cpython/issues/294"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0105",
+    "likely_poc": [
+      "https://github.com/rodrimati1992/abi_stable_crates/issues/44"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0002",
+    "likely_poc": [
+      "https://github.com/rust-lang/git2-rs/pull/909",
+      "https://blog.rust-lang.org/2023/01/10/cve-2022-46176.html"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0058",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0053",
+    "likely_poc": [
+      "https://github.com/rustsec/advisory-db/pull/1381"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0016",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0060",
+    "likely_poc": [
+      "https://github.com/RustCrypto/block-ciphers/pull/200"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0039",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0067",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0077",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2018-0001",
+    "likely_poc": [
+      "https://github.com/briansmith/untrusted/pull/20"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0019",
+    "likely_poc": [
+      "https://github.com/tokio-rs/tls/pull/14"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0076",
+    "likely_poc": [
+      "https://github.com/paritytech/libsecp256k1/pull/67"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0027",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0016",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0078",
+    "likely_poc": [
+      "https://github.com/deprecrated/net2-rs/issues/105"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2018-0017",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0094",
+    "likely_poc": [
+      "https://github.com/dyule/rdiff/issues/3"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0013",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0021",
+    "likely_poc": [
+      "https://github.com/eyre-rs/eyre/issues/141"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0063",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0159",
+    "likely_poc": [
+      "https://github.com/chronotope/chrono/issues/499"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0137",
+    "likely_poc": [
+      "https://github.com/vertexclique/lever/issues/15"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0010",
+    "likely_poc": [
+      "https://github.com/svix/svix-webhooks/pull/1190"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0043",
+    "likely_poc": [
+      "https://github.com/housleyjk/ws-rs/issues/291"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0137",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2017-0001",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2019-0026",
+    "likely_poc": [
+      "https://github.com/sodiumoxide/sodiumoxide/pull/381"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0011",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0007",
+    "likely_poc": [
+      "https://github.com/myrrlyn/bitvec/issues/55"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0053",
+    "likely_poc": [
+      "https://github.com/AbrarNitk/algorithmica/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0043",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0094",
+    "likely_poc": [
+      "https://github.com/diwic/reffers-rs/issues/7"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0032",
+    "likely_poc": [
+      "https://github.com/FrinkGlobal/ntru-rs/issues/8"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0119",
+    "likely_poc": [
+      "https://github.com/kvark/ticketed_lock/issues/7"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0050",
+    "likely_poc": [
+      "https://github.com/elrnv/dync/issues/4"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0143",
+    "likely_poc": [
+      "https://github.com/schets/multiqueue/issues/31"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0096",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0065",
+    "likely_poc": [
+      "https://github.com/snapview/tungstenite-rs/issues/376"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0334",
+    "likely_poc": [
+      "https://github.com/comit-network/rust-libp2p-tokio-socks5/commit/e1fdc92ca69ffd254824ab80fbad5660f4aac911"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0006",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0075",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0125",
+    "likely_poc": [
+      "https://github.com/krl/convec/issues/2"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0028",
+    "likely_poc": [
+      "https://github.com/antonmarsden/toodee/issues/13"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0052",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0073",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2017-0006",
+    "likely_poc": [
+      "https://github.com/3Hren/msgpack-rust/issues/151"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0032",
+    "likely_poc": [
+      "https://github.com/wwylele/byte-struct-rs/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0109",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0108",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0107",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0091",
+    "likely_poc": [
+      "https://github.com/vorner/arc-swap/issues/45"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0113",
+    "likely_poc": [
+      "https://github.com/reem/rust-atomic-option/issues/4"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0370",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0140",
+    "likely_poc": [
+      "https://github.com/spacejam/model/issues/3"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0150",
+    "likely_poc": [
+      "https://github.com/dimforge/ncollide"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0030",
+    "likely_poc": [
+      "https://github.com/NilsIrl/MozWire/issues/14"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0030",
+    "likely_poc": [
+      "https://github.com/okready/scratchpad/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0017",
+    "likely_poc": [
+      "https://github.com/matklad/once_cell/issues/46"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0012",
+    "likely_poc": [
+      "https://github.com/servo/rust-smallvec/issues/149"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0009",
+    "likely_poc": [
+      "https://github.com/servo/rust-smallvec/issues/148"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2018-0003",
+    "likely_poc": [
+      "https://github.com/servo/rust-smallvec/issues/96"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2018-0018",
+    "likely_poc": [
+      "https://github.com/servo/rust-smallvec/issues/126"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0003",
+    "likely_poc": [
+      "https://github.com/servo/rust-smallvec/issues/252"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0065",
+    "likely_poc": [
+      "https://github.com/chris-morgan/anymap/issues/37"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0146",
+    "likely_poc": [
+      "https://github.com/fizyk20/generic-array/issues/98"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0149",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2018-0013",
+    "likely_poc": [
+      "https://github.com/nabijaczleweli/safe-transmute-rs/pull/36"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0001",
+    "likely_poc": [
+      "https://github.com/danburkert/lmdb-rs"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0076",
+    "likely_poc": [
+      "https://github.com/maidsafe/sn_routing/pull/2190"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0020",
+    "likely_poc": [
+      "https://github.com/ardaku/whoami/issues/91"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0012",
+    "likely_poc": [
+      "https://github.com/dylni/os_str_bytes/pull/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0050",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0066",
+    "likely_poc": [
+      "https://gitlab.com/edneville/please/-/issues/13"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0101",
+    "likely_poc": [
+      "https://nvd.nist.gov/vuln/detail/CVE-2021-31155"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0104",
+    "likely_poc": [
+      "https://nvd.nist.gov/vuln/detail/CVE-2021-31153"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0102",
+    "likely_poc": [
+      "https://nvd.nist.gov/vuln/detail/CVE-2021-31154"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0071",
+    "likely_poc": [
+      "https://github.com/RustCrypto/RSA/issues/19#issuecomment-1822995643"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0018",
+    "likely_poc": [
+      "https://github.com/RustCrypto/traits/pull/139"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0035",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0023",
+    "likely_poc": [
+      "https://github.com/rust-random/rand/pull/1096"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0015",
+    "likely_poc": [
+      "https://github.com/llogiq/compact_arena/issues/22"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0041",
+    "likely_poc": [
+      "https://github.com/bodil/sized-chunks/issues/11"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2018-0020",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2018-0021",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2019-0038",
+    "likely_poc": [
+      "https://github.com/jnqnfe/pulse-binding-rust/commit/7fd282aef7787577c385aed88cb25d004b85f494"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0055",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0034",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0115",
+    "likely_poc": [
+      "https://github.com/iqlusioninc/crates/issues/876"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0150",
+    "likely_poc": [
+      "https://github.com/sklose/disrustor/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0354",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0342",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0046",
+    "likely_poc": [
+      "https://github.com/actix/actix-net/pull/158"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0049",
+    "likely_poc": [
+      "https://github.com/gretchenfrage/through/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0078",
+    "likely_poc": [
+      "https://github.com/tokio-rs/tracing/pull/2765"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0075",
+    "likely_poc": [
+      "https://github.com/arkworks-rs/r1cs-std/pull/70"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0005",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0070",
+    "likely_poc": [
+      "https://github.com/Amanieu/parking_lot/pull/262"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0044",
+    "likely_poc": [
+      "https://github.com/johannhof/markdown.rs/issues/48"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0030",
+    "likely_poc": [
+      "https://github.com/RustCrypto/hashes/pull/91"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0331",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0071",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0013",
+    "likely_poc": [
+      "https://github.com/rust-lang/git2-rs/pull/1017"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0003",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0351",
+    "likely_poc": [
+      "https://github.com/Byron/gitoxide/security/advisories/GHSA-49jc-r788-3fc9",
+      "https://github.com/advisories/GHSA-49jc-r788-3fc9",
+      "https://nvd.nist.gov/vuln/detail/CVE-2024-35197"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0002",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0082",
+    "likely_poc": [
+      "https://github.com/reem/rust-ordered-float/pull/71"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0042",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2019-0007",
+    "likely_poc": [
+      "https://github.com/KizzyCode/asn1_der/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0046",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2016-0003",
+    "likely_poc": [
+      "https://github.com/RustAudio/rust-portaudio/issues/144"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0018",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0072",
+    "likely_poc": [
+      "https://github.com/tokio-rs/tokio/issues/3929"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0005",
+    "likely_poc": [
+      "https://github.com/tokio-rs/tokio/issues/5372"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0001",
+    "likely_poc": [
+      "https://github.com/tokio-rs/tokio/security/advisories/GHSA-7rrj-xr53-82p7",
+      "https://github.com/tokio-rs/tokio/pull/5336",
+      "https://learn.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-createnamedpipea#pipe_reject_remote_clients"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0124",
+    "likely_poc": [
+      "https://github.com/tokio-rs/tokio/issues/4225"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0002",
+    "likely_poc": [
+      "https://github.com/xacrimon/dashmap/issues/167"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0011",
+    "likely_poc": [
+      "https://github.com/Gilnaa/memoffset/issues/9#issuecomment-505461490"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0045",
+    "likely_poc": [
+      "https://github.com/Gilnaa/memoffset/issues/24"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0155",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0109",
+    "likely_poc": [
+      "https://github.com/biluohc/stderr/issues/5"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0115",
+    "likely_poc": [
+      "https://github.com/RusPiRo/ruspiro-singleton/issues/10"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0034",
+    "likely_poc": [
+      "https://github.com/sjep/array/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0019",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0001",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0106",
+    "likely_poc": [
+      "https://nvd.nist.gov/vuln/detail/CVE-2021-36753"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0021",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0054",
+    "likely_poc": [
+      "https://git.sr.ht/~nabijaczleweli/mail-internals.crate/commit/05443c864b204e7f1512caf2d53e8cce4dd340fc"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0030",
+    "likely_poc": [
+      "https://github.com/firecracker-microvm/versionize/pull/53"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0022",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0335",
+    "likely_poc": [
+      "https://github.com/Byron/gitoxide/security/advisories/GHSA-98p4-xjmm-8mfh"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0064",
+    "likely_poc": [
+      "https://github.com/Byron/gitoxide/pull/1032",
+      "https://secure.phabricator.com/T12961"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0153",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0037",
+    "likely_poc": [
+      "https://github.com/diesel-rs/diesel/pull/2663"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0365",
+    "likely_poc": [
+      "https://github.com/diesel-rs/diesel/pull/4170"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0061",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0028",
+    "likely_poc": [
+      "https://github.com/neon-bindings/neon/issues/896"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0080",
+    "likely_poc": [
+      "https://github.com/yoshuawuyts/miow/issues/38"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0144",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0162",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0341",
+    "likely_poc": [
+      "https://github.com/tmccombs/tls-listener/security/advisories/GHSA-2qph-qpvm-2qf7"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0134",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0367",
+    "likely_poc": [
+      "https://github.com/Byron/gitoxide/security/advisories/GHSA-v26r-4c9c-h3j6",
+      "https://github.com/advisories/GHSA-v26r-4c9c-h3j6",
+      "https://nvd.nist.gov/vuln/detail/CVE-2024-45305"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0355",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0371",
+    "likely_poc": [
+      "https://github.com/Byron/gitoxide/security/advisories/GHSA-m8rp-vv92-46c7",
+      "https://github.com/advisories/GHSA-m8rp-vv92-46c7"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0054",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0023",
+    "likely_poc": [
+      "https://github.com/sfackler/rust-openssl/pull/1854"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0044",
+    "likely_poc": [
+      "https://github.com/sfackler/rust-openssl/issues/1965"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0357",
+    "likely_poc": [
+      "https://github.com/sfackler/rust-openssl/pull/2266"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2016-0001",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0022",
+    "likely_poc": [
+      "https://github.com/sfackler/rust-openssl/pull/1854"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0072",
+    "likely_poc": [
+      "https://github.com/sfackler/rust-openssl/issues/2096"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0024",
+    "likely_poc": [
+      "https://github.com/sfackler/rust-openssl/pull/1854"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2018-0010",
+    "likely_poc": [
+      "https://github.com/sfackler/rust-openssl/pull/942"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0049",
+    "likely_poc": [
+      "https://github.com/actix/actix-net/issues/91"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2017-0003",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0136",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2018-0019",
+    "likely_poc": [
+      "https://github.com/actix/actix-web/issues/289"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0029",
+    "likely_poc": [
+      "https://github.com/kornelski/rust-rgb/issues/35"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0132",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0035",
+    "likely_poc": [
+      "https://github.com/quinn-rs/quinn/issues/968"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0090",
+    "likely_poc": [
+      "https://nvd.nist.gov/vuln/detail/CVE-2022-35737"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0123",
+    "likely_poc": [
+      "https://github.com/libp2p/rust-libp2p/issues/1932"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0035",
+    "likely_poc": [
+      "https://github.com/aeplay/chunky/issues/2"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0062",
+    "likely_poc": [
+      "https://github.com/matrix-org/matrix-rust-sdk/issues/1110"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0046",
+    "likely_poc": [
+      "https://github.com/buckyos/CYFS/issues/275"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0084",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0006",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0128",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0017",
+    "likely_poc": [
+      "https://github.com/droundy/internment/issues/11"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0036",
+    "likely_poc": [
+      "https://github.com/droundy/internment/issues/20"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0068",
+    "likely_poc": [
+      "https://github.com/fadeevab/cocoon/issues/22"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2017-0004",
+    "likely_poc": [
+      "https://github.com/alicemaz/rust-base64/commit/24ead980daf11ba563e4fb2516187a56a71ad319"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0142",
+    "likely_poc": [
+      "https://github.com/Chopinsky/byte_buffer/issues/2"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0001",
+    "likely_poc": [
+      "https://github.com/rust-lang/ferris-says/pull/21"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0036",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0012",
+    "likely_poc": [
+      "https://github.com/jorgecarleitao/arrow2/issues/880"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0081",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0023",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0130",
+    "likely_poc": [
+      "https://github.com/krl/bunch/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0088",
+    "likely_poc": [
+      "https://github.com/johnshaw/magnetic/issues/9"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0348",
+    "likely_poc": [
+      "https://github.com/Byron/gitoxide/security/advisories/GHSA-7w47-3wg8-547c",
+      "https://github.com/advisories/GHSA-7w47-3wg8-547c",
+      "https://nvd.nist.gov/vuln/detail/CVE-2024-35186"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0352",
+    "likely_poc": [
+      "https://github.com/Byron/gitoxide/security/advisories/GHSA-49jc-r788-3fc9",
+      "https://github.com/advisories/GHSA-49jc-r788-3fc9",
+      "https://nvd.nist.gov/vuln/detail/CVE-2024-35197"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0057",
+    "likely_poc": [
+      "https://github.com/dtolnay/inventory/pull/43"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0058",
+    "likely_poc": [
+      "https://github.com/dtolnay/inventory/pull/42"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0152",
+    "likely_poc": [
+      "https://github.com/RustyYato/out-ref/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0037",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0099",
+    "likely_poc": [
+      "https://github.com/cosmos/cosmos-rust/issues/113"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0077",
+    "likely_poc": [
+      "https://github.com/danburkert/memmap-rs/issues/90"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0031",
+    "likely_poc": [
+      "https://github.com/bennetthardwick/nano-arena/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0042",
+    "likely_poc": [
+      "https://github.com/joshua-maros/ouroboros/issues/88"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0108",
+    "likely_poc": [
+      "https://github.com/petabi/eventio/issues/33"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0032",
+    "likely_poc": [
+      "https://github.com/pigeonhands/rust-arch/issues/2"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0083",
+    "likely_poc": [
+      "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-42447"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0111",
+    "likely_poc": [
+      "https://github.com/tremor-rs/tremor-runtime/pull/1217"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0103",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0364",
+    "likely_poc": [
+      "https://github.com/Byron/gitoxide/security/advisories/GHSA-88g2-r9rw-g55h",
+      "https://github.com/advisories/GHSA-88g2-r9rw-g55h",
+      "https://nvd.nist.gov/vuln/detail/CVE-2024-43785",
+      "https://github.com/Byron/gitoxide/issues/1534"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0048",
+    "likely_poc": [
+      "https://github.com/Alexhuszagh/rust-stackvector/issues/2"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0369",
+    "likely_poc": [
+      "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-39697"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0082",
+    "likely_poc": [
+      "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-42444"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0083",
+    "likely_poc": [
+      "https://github.com/rust-blockchain/evm/pull/133"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0145",
+    "likely_poc": [
+      "https://github.com/softprops/atty/issues/50",
+      "https://github.com/softprops/atty/pull/51",
+      "https://github.com/softprops/atty/issues/57"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0375",
+    "likely_poc": [
+      "https://github.com/softprops/atty/issues/57"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0007",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0032",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0027",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0056",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0013",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0025",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0065",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0129",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0058",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0059",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0012",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0011",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0064",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0057",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0009",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0006",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0015",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0033",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0097",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0010",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0014",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0026",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0055",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0098",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0008",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0062",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0059",
+    "likely_poc": [
+      "https://github.com/rust-lang/futures-rs/issues/2239"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0116",
+    "likely_poc": [
+      "https://github.com/udoprog/unicycle/issues/8"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0007",
+    "likely_poc": [
+      "https://github.com/longbridgeapp/rust-i18n/issues/71",
+      "https://github.com/longbridgeapp/rust-i18n/pull/72"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0014",
+    "likely_poc": [
+      "https://github.com/rust-embedded/cortex-m/discussions/469"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0029",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0041",
+    "likely_poc": [
+      "https://github.com/zeta12ti/parse_duration/issues/21"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0016",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0084",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0160",
+    "likely_poc": [
+      "https://github.com/Nebulosus/shamir/issues/3"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0085",
+    "likely_poc": [
+      "https://github.com/mlalic/hpack-rs/issues/11"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0084",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0080",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0061",
+    "likely_poc": [
+      "https://github.com/rust-lang/futures-rs/issues/2091"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0060",
+    "likely_poc": [
+      "https://github.com/rust-lang/futures-rs/pull/2206"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0096",
+    "likely_poc": [
+      "https://github.com/bodil/im-rs/issues/157"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0100",
+    "likely_poc": [
+      "https://github.com/RustCrypto/hashes/pull/314"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0112",
+    "likely_poc": [
+      "https://github.com/buttplugio/buttplug-rs/issues/225"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0012",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0033",
+    "likely_poc": [
+      "https://github.com/thepowersgang/stack_dst-rs/issues/5"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0167",
+    "likely_poc": [
+      "https://github.com/libpnet/libpnet/issues/449"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0345",
+    "likely_poc": [
+      "https://gitlab.com/sequoia-pgp/sequoia/-/issues/1106"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0038",
+    "likely_poc": [
+      "https://gitlab.com/sequoia-pgp/sequoia/-/tags/openpgp%2Fv1.16.0"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0126",
+    "likely_poc": [
+      "https://github.com/pyros2097/rust-embed/issues/159"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0006",
+    "likely_poc": [
+      "https://github.com/Amanieu/thread_local-rs/issues/33"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0049",
+    "likely_poc": [
+      "https://github.com/fdehau/tui-rs/issues/654"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0040",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0057",
+    "likely_poc": [
+      "https://github.com/RustCrypto/traits/pull/337"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0062",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0143",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0056",
+    "likely_poc": [
+      "https://github.com/koute/stdweb/issues/403"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0040",
+    "likely_poc": [
+      "https://github.com/noamtashma/owning-ref-unsoundness",
+      "https://github.com/Kimundi/owning-ref-rs/issues/49",
+      "https://github.com/Kimundi/owning-ref-rs/issues/61",
+      "https://github.com/Kimundi/owning-ref-rs/issues/71",
+      "https://github.com/Kimundi/owning-ref-rs/issues/77"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0117",
+    "likely_poc": [
+      "https://github.com/longshorej/conqueue/issues/9"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0051",
+    "likely_poc": [
+      "https://github.com/RustSec/advisory-db/issues/414"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0098",
+    "likely_poc": [
+      "https://github.com/a1ien/rusb/issues/44"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0019",
+    "likely_poc": [
+      "https://github.com/RustCrypto/MACs/issues/19"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0075",
+    "likely_poc": [
+      "https://github.com/dtolnay/unsafe-libyaml/issues/21"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0003",
+    "likely_poc": [
+      "https://github.com/stepancheg/rust-protobuf/issues/411"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0020",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0039",
+    "likely_poc": [
+      "https://github.com/Koka/odbc-rs/commit/f9e5f77fac0a6328f9759e6e0f9e10c16509aebb"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0069",
+    "likely_poc": [
+      "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-42456"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0018",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0076",
+    "likely_poc": [
+      "https://github.com/bytecodealliance/wasmtime/commit/e60c3742904ccbb3e26da201c9221c38a4981d72"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0110",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0016",
+    "likely_poc": [
+      "https://github.com/bytecodealliance/wasmtime/security/advisories/GHSA-gwc9-348x-qwv2"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0075",
+    "likely_poc": [
+      "https://github.com/bytecodealliance/wasmtime/commit/2614f2e9d2d36805ead8a8da0fa0c6e0d9e428a0",
+      "https://github.com/bytecodealliance/wasmtime/commit/3535acbf3be032ef1ba0b469b8ab92538a8a18a6"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0015",
+    "likely_poc": [
+      "https://github.com/tomprogrammer/rust-ascii/issues/64"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0042",
+    "likely_poc": [
+      "https://github.com/arcnmx/stack-rs/issues/4"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0104",
+    "likely_poc": [
+      "https://github.com/Devolutions/gfwx-rs/issues/7"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0047",
+    "likely_poc": [
+      "https://github.com/raviqqe/array-queue/issues/2"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0144",
+    "likely_poc": [
+      "https://github.com/reem/rust-traitobject/issues/7"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0027",
+    "likely_poc": [
+      "https://github.com/reem/rust-traitobject/issues/7"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0033",
+    "likely_poc": [
+      "https://gitlab.com/dvshapkin/alg-ds/-/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0338",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0164",
+    "likely_poc": [
+      "https://github.com/RustyYato/cell-project/issues/3",
+      "https://github.com/RustyYato/cell-project/issues/3",
+      "https://github.com/RustyYato/cell-project/issues/4"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0070",
+    "likely_poc": [
+      "https://github.com/rust-bitcoin/rust-secp256k1/issues/543",
+      "https://github.com/rust-bitcoin/rust-secp256k1/pull/548"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0018",
+    "likely_poc": [
+      "https://github.com/XAMPPRocky/remove_dir_all/commit/7247a8b6ee59fc99bbb69ca6b3ca4bfd8c809ead"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0358",
+    "likely_poc": [
+      "https://github.com/apache/arrow-rs/pull/6074",
+      "https://www.openwall.com/lists/oss-security/2024/07/23/3"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0092",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0360",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0153",
+    "likely_poc": [
+      "https://github.com/hinaria/bite/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0060",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0063",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0017",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2019-0023",
+    "likely_poc": [
+      "https://github.com/Robbepop/string-interner/issues/9"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0127",
+    "likely_poc": [
+      "https://github.com/pyfisch/cbor"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0025",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0052",
+    "likely_poc": [
+      "https://github.com/a-ba/os_socketaddr/issues/3"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0033",
+    "likely_poc": [
+      "https://github.com/near/borsh-rs/issues/19"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0339",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0340",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0359",
+    "likely_poc": [
+      "https://github.com/Byron/gitoxide/issues/1460"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0053",
+    "likely_poc": [
+      "https://github.com/dirs-dev/dirs-rs"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0021",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0026",
+    "likely_poc": [
+      "https://github.com/contain-rs/linked-hash-map/pull/100"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0025",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0347",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0362",
+    "likely_poc": [
+      "https://github.com/alloy-rs/core/issues/702"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0079",
+    "likely_poc": [
+      "https://github.com/vincenthouyi/elf_rs/issues/11"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0034",
+    "likely_poc": [
+      "https://github.com/RustSec/advisory-db/issues/742#issuecomment-773313783"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0067",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2019-0004",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0009",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0073",
+    "likely_poc": [
+      "https://github.com/rust-embedded/embedded-alloc/pull/56"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0080",
+    "likely_poc": [
+      "https://github.com/ejmahler/transpose/issues/11"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0024",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0047",
+    "likely_poc": [
+      "https://github.com/gnzlbg/slice_deque/issues/90"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0158",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2019-0002",
+    "likely_poc": [
+      "https://github.com/gnzlbg/slice_deque/issues/57"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2018-0008",
+    "likely_poc": [
+      "https://github.com/gnzlbg/slice_deque/issues/57"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0374",
+    "likely_poc": [
+      "https://github.com/ouch-org/ouch/issues/707"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0138",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2016-0005",
+    "likely_poc": [
+      "https://github.com/DaGenix/rust-crypto/issues/440"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0011",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2019-0021",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0082",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0139",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0067",
+    "likely_poc": [
+      "https://github.com/badboy/lzf-rs/issues/9"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0003",
+    "likely_poc": [
+      "https://github.com/maidsafe/rust_sodium/pull/117"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0015",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0068",
+    "likely_poc": [
+      "https://github.com/icedland/iced/issues/168"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0038",
+    "likely_poc": [
+      "https://github.com/maciejhirsz/ordnung/issues/8"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0028",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0051",
+    "likely_poc": [
+      "https://github.com/szymonwieloch/rust-dlopen/issues/47"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0049",
+    "likely_poc": [
+      "https://github.com/strawlab/iana-time-zone/pull/54",
+      "https://github.com/strawlab/iana-time-zone/pull/50#discussion_r945353515"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0107",
+    "likely_poc": [
+      "https://github.com/AdrienChampion/hashconsing/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0157",
+    "likely_poc": [
+      "https://nvd.nist.gov/vuln/detail/CVE-2020-13759"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0056",
+    "likely_poc": [
+      "https://github.com/rust-vmm/vm-memory/commit/aff1dd4a5259f7deba56692840f7a2d9ca34c9c8"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0166",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2017-0007",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2018-0007",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2019-0005",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0007",
+    "likely_poc": [
+      "https://github.com/uazu/qcell/issues/20"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0034",
+    "likely_poc": [
+      "https://github.com/hyperium/hyper/issues/2877"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0003",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0332",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0131",
+    "likely_poc": [
+      "https://github.com/Xudong-Huang/rcu_cell/issues/3"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0064",
+    "likely_poc": [
+      "https://github.com/RustCrypto/utils/pull/381"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0014",
+    "likely_poc": [
+      "https://github.com/image-rs/image/pull/985"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0073",
+    "likely_poc": [
+      "https://github.com/image-rs/image/issues/1357"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0039",
+    "likely_poc": [
+      "https://gitlab.com/sequoia-pgp/sequoia/-/tags/buffered-reader%2Fv1.2.0"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0047",
+    "likely_poc": [
+      "https://github.com/vhbit/lmdb-rs/issues/67"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0029",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0055",
+    "likely_poc": [
+      "https://github.com/tokio-rs/axum/pull/1346"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0010",
+    "likely_poc": [
+      "https://github.com/sile/libflate/issues/35"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0090",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2018-0016",
+    "likely_poc": [
+      "https://github.com/notriddle/quickersort/commit/0bc164366315801f0c6b31f4081b7df9fc894076"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0353",
+    "likely_poc": [
+      "https://github.com/Byron/gitoxide/security/advisories/GHSA-49jc-r788-3fc9",
+      "https://github.com/advisories/GHSA-49jc-r788-3fc9",
+      "https://nvd.nist.gov/vuln/detail/CVE-2024-35197"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0349",
+    "likely_poc": [
+      "https://github.com/Byron/gitoxide/security/advisories/GHSA-7w47-3wg8-547c",
+      "https://github.com/advisories/GHSA-7w47-3wg8-547c",
+      "https://nvd.nist.gov/vuln/detail/CVE-2024-35186"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0014",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0005",
+    "likely_poc": [
+      "https://github.com/cr0sh/threadalone/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0012",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0020",
+    "likely_poc": [
+      "https://github.com/abonander/const-cstr"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0086",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0092",
+    "likely_poc": [
+      "https://github.com/3Hren/msgpack-rust/issues/305"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0024",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0093",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0101",
+    "likely_poc": [
+      "https://github.com/oliver-giersch/conquer-once/issues/3"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0008",
+    "likely_poc": [
+      "https://github.com/Enet4/bra-rs/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0085",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0004",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0333",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0132",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0128",
+    "likely_poc": [
+      "https://github.com/rusqlite/rusqlite/issues/1048"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0014",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0024",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0035",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0031",
+    "likely_poc": [
+      "https://github.com/tiny-http/tiny-http/issues/173"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0087",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0086",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0026",
+    "likely_poc": [
+      "https://github.com/Byron/gitoxide/pull/741"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0073",
+    "likely_poc": [
+      "https://github.com/tokio-rs/prost/issues/438"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0004",
+    "likely_poc": [
+      "https://github.com/bytecodealliance/lucet/pull/401"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0041",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0001",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0053",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0058",
+    "likely_poc": [
+      "https://github.com/RustCrypto/traits/pull/337"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0102",
+    "likely_poc": [
+      "https://github.com/Richard-W/late-static/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0344",
+    "likely_poc": [
+      "https://github.com/dalek-cryptography/curve25519-dalek/pull/659"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0124",
+    "likely_poc": [
+      "https://github.com/google/rust-async-coap/issues/33"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2018-0004",
+    "likely_poc": [
+      "https://github.com/ruuda/claxon/commit/8f28ec275e412dd3af4f3cda460605512faf332c"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0006",
+    "likely_poc": [
+      "https://github.com/fitzgen/bumpalo/issues/69"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0078",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0035",
+    "likely_poc": [
+      "https://github.com/meithecatte/enumflags2/releases/tag/v0.7.7"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0030",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0031",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0100",
+    "likely_poc": [
+      "https://github.com/FillZpp/sys-info-rs/issues/63"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0149",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0019",
+    "likely_poc": [
+      "https://github.com/RustSec/advisory-db/issues/653",
+      "https://github.com/rust-x-bindings/rust-xcb/issues/78",
+      "https://github.com/rust-x-bindings/rust-xcb/issues/94",
+      "https://github.com/rust-x-bindings/rust-xcb/issues/95",
+      "https://github.com/rust-x-bindings/rust-xcb/issues/96"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0097",
+    "likely_poc": [
+      "https://github.com/rust-x-bindings/rust-xcb/issues/93"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0045",
+    "likely_poc": [
+      "https://github.com/charles-r-earp/adtensor/issues/4"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0037",
+    "likely_poc": [
+      "https://github.com/libpnet/libpnet/issues/449"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0022",
+    "likely_poc": [
+      "https://gitlab.com/YottaDB/Lang/YDBRust/-/issues/40"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0008",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0088",
+    "likely_poc": [
+      "https://github.com/jblondin/csv-sniffer/pull/2"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0039",
+    "likely_poc": [
+      "https://gitlab.com/myrrlyn/endian_trait/-/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0027",
+    "likely_poc": [
+      "https://github.com/nats-io/nats.rs/commit/817a7b942c462fa9d9938dcb62124173634132fb#diff-767d442397fcaaf2f83e8f924d4a70317a2ce4703a49964d6007707949cfa5f5L303-R304"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0059",
+    "likely_poc": [
+      "https://github.com/RustCrypto/block-ciphers/pull/200"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0081",
+    "likely_poc": [
+      "https://github.com/maciejhirsz/json-rust/issues/196"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0066",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0051",
+    "likely_poc": [
+      "https://github.com/lz4/lz4/pull/972"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0046",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0037",
+    "likely_poc": [
+      "https://github.com/RustCrypto/AEADs/pull/525"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0105",
+    "likely_poc": [
+      "https://nvd.nist.gov/vuln/detail/CVE-2021-36376"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0138",
+    "likely_poc": [
+      "https://gitlab.com/nathanfaucett/rs-lexer/-/issues/2"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0120",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0041",
+    "likely_poc": [
+      "https://github.com/crossbeam-rs/crossbeam/pull/781"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0118",
+    "likely_poc": [
+      "https://github.com/apache/arrow-rs/issues/774"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0116",
+    "likely_poc": [
+      "https://github.com/apache/arrow-rs/issues/772",
+      "https://github.com/apache/arrow-rs/issues/773"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0117",
+    "likely_poc": [
+      "https://github.com/apache/arrow-rs/issues/775"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0350",
+    "likely_poc": [
+      "https://github.com/Byron/gitoxide/security/advisories/GHSA-7w47-3wg8-547c",
+      "https://github.com/advisories/GHSA-7w47-3wg8-547c",
+      "https://nvd.nist.gov/vuln/detail/CVE-2024-35186"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0077",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0099",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0048",
+    "likely_poc": [
+      "https://github.com/artichoke/intaglio/pull/236",
+      "https://github.com/artichoke/intaglio/issues/235",
+      "https://github.com/artichoke/intaglio/pull/236"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0062",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0074",
+    "likely_poc": [
+      "https://github.com/google/zerocopy/issues/716"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0121",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0011",
+    "likely_poc": [
+      "https://github.com/cogciprocate/ocl/issues/194"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0082",
+    "likely_poc": [
+      "https://github.com/seanmonstar/warp/issues/937"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0343",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0133",
+    "likely_poc": [
+      "https://github.com/Xion/cargo-download"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0066",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0010",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0118",
+    "likely_poc": [
+      "https://github.com/KizzyCode/tiny_future/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0083",
+    "likely_poc": [
+      "https://github.com/Connicpu/com-impl/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0007",
+    "likely_poc": [
+      "https://github.com/rust-av/rust-av/issues/136"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2018-0022",
+    "likely_poc": [
+      "https://github.com/stainless-steel/temporary/issues/2"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0050",
+    "likely_poc": [
+      "https://github.com/tiby312/reorder/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0054",
+    "likely_poc": [
+      "https://github.com/rustwasm/wee_alloc/issues/107",
+      "https://github.com/rustwasm/wee_alloc/issues/85",
+      "https://github.com/rustwasm/wee_alloc/issues/106"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0089",
+    "likely_poc": [
+      "https://github.com/gz/rust-cpuid/issues/43"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0013",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0130",
+    "likely_poc": [
+      "https://github.com/jeromefroe/lru-rs/issues/120"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2018-0002",
+    "likely_poc": [
+      "https://github.com/alexcrichton/tar-rs/pull/156"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0080",
+    "likely_poc": [
+      "https://github.com/alexcrichton/tar-rs/issues/238"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0148",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0021",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0005",
+    "likely_poc": [
+      "https://github.com/TomBebbington/cbox-rs/issues/2"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0139",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0029",
+    "likely_poc": [
+      "https://github.com/crossbeam-rs/crossbeam/pull/98"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2018-0009",
+    "likely_poc": [
+      "https://github.com/crossbeam-rs/crossbeam-epoch/issues/82"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0020",
+    "likely_poc": [
+      "https://github.com/crossbeam-rs/crossbeam/pull/458"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0064",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0004",
+    "likely_poc": [
+      "https://github.com/khuey/lazy-init/issues/9"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0072",
+    "likely_poc": [
+      "https://github.com/Matthias247/futures-intrusive/issues/53"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0021",
+    "likely_poc": [
+      "https://github.com/crossbeam-rs/crossbeam/pull/458"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0086",
+    "likely_poc": [
+      "https://github.com/sunrise-choir/flumedb-rs/pull/12"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0087",
+    "likely_poc": [
+      "https://github.com/mpdn/try-mutex/issues/2"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0146",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0044",
+    "likely_poc": [
+      "https://github.com/slide-rs/atom/issues/13"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2017-0005",
+    "likely_poc": [
+      "https://github.com/alexcrichton/cookie-rs/pull/86"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0023",
+    "likely_poc": [
+      "https://github.com/AtheMathmo/rulinalg/issues/201"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0147",
+    "likely_poc": [
+      "https://github.com/AtheMathmo/rulinalg/issues/201#issuecomment-584749313"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0140",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0151",
+    "likely_poc": [
+      "https://github.com/Xudong-Huang/generator-rs/issues/27"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0020",
+    "likely_poc": [
+      "https://github.com/Xudong-Huang/generator-rs/issues/9"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0074",
+    "likely_poc": [
+      "https://github.com/phsym/prettytable-rs/issues/145"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0125",
+    "likely_poc": [
+      "https://github.com/acw/simple_asn1/issues/27"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0065",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0372",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2018-0015",
+    "likely_poc": [
+      "https://github.com/Stebalien/term/issues/93"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0079",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2019-0022",
+    "likely_poc": [
+      "https://github.com/mvdnes/portaudio-rs/issues/20"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0018",
+    "likely_poc": [
+      "https://github.com/qwertz19281/rust_utils/issues/3"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0111",
+    "likely_poc": [
+      "https://github.com/Xudong-Huang/may/issues/88"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0024",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0103",
+    "likely_poc": [
+      "https://github.com/mersinvald/autorand-rs/issues/5"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0337",
+    "likely_poc": [
+      "https://github.com/zip-rs/zip/issues/446"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0057",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0071",
+    "likely_poc": [
+      "https://github.com/BurntSushi/ripgrep/issues/1773"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0079",
+    "likely_poc": [
+      "https://kyberslash.cr.yp.to/faq.html"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2016-0006",
+    "likely_poc": [
+      "https://github.com/tupshin/cassandra-rs/issues/52"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0089",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0063",
+    "likely_poc": [
+      "https://github.com/quinn-rs/quinn/pull/1667"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0373",
+    "likely_poc": [
+      "https://github.com/quinn-rs/quinn"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0016",
+    "likely_poc": [
+      "https://github.com/sundy-li/partial_sort/issues/7"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0070",
+    "likely_poc": [
+      "https://github.com/dimforge/nalgebra/issues/883"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0040",
+    "likely_poc": [
+      "https://github.com/petertodd/rust-obstack/issues/4"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0060",
+    "likely_poc": [
+      "https://github.com/redox-os/orbtk/blob/eba9e77821551076bbf1d9f7ab44d788150e3446/README.md#orbtk-is-sunsetting"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0361",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0366",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0363",
+    "likely_poc": [
+      "https://github.com/launchbadge/sqlx/issues/3440"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0002",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0042",
+    "likely_poc": [
+      "https://github.com/rphmeier/insert_many/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0069",
+    "likely_poc": [
+      "https://github.com/lettre/lettre/pull/508/commits/bbe7cc5381c5380b54fb8bbb4f77a3725917ff0b"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0069",
+    "likely_poc": [
+      "https://github.com/lettre/lettre/pull/627/commits/93458d01fed0ec81c0e7b4e98e6f35961356fae2"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0148",
+    "likely_poc": [
+      "https://github.com/playXE/cgc/issues/5"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0077",
+    "likely_poc": [
+      "https://github.com/rosenpass/rosenpass/commit/93439858d1c44294a7b377f775c4fc897a370bb2"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0074",
+    "likely_poc": [
+      "https://github.com/rust-ammonia/ammonia/pull/142"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0003",
+    "likely_poc": [
+      "https://github.com/rust-ammonia/ammonia/pull/147"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0001",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0074",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0168",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0037",
+    "likely_poc": [
+      "https://github.com/shawnscode/crayon/issues/87"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0018",
+    "likely_poc": [
+      "https://github.com/shawnscode/crayon/issues/109"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0004",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0152",
+    "likely_poc": [
+      "https://github.com/edarc/max7301/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0085",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0051",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0163",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0368",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0093",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0091",
+    "likely_poc": [
+      "https://github.com/gfx-rs/gfx/issues/3567"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0156",
+    "likely_poc": [
+      "https://nvd.nist.gov/vuln/detail/CVE-2019-20399"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0093",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0052",
+    "likely_poc": [
+      "https://github.com/andrewhickman/id-map/issues/3"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0072",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0069",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0126",
+    "likely_poc": [
+      "https://github.com/kitsuneninetails/signal-rust/issues/2"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0038",
+    "likely_poc": [
+      "https://github.com/MoAlyousef/fltk-rs/issues/519"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2016-0004",
+    "likely_poc": [
+      "https://github.com/dcuddeback/libusb-rs/issues/33"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0047",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0045",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0127",
+    "likely_poc": [
+      "https://github.com/purpleposeidon/v9/issues/1"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0161",
+    "likely_poc": [
+      "https://gitlab.com/KonradBorowski/array-macro/-/commit/01940637dd8f3bfeeee3faf9639fa9ae52f19f4d"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0017",
+    "likely_poc": [
+      "https://gitlab.com/KonradBorowski/array-macro/-/issues/5"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0083",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0025",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2019-0016",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0095",
+    "likely_poc": [
+      "https://github.com/johannhof/difference.rs/issues/45"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0052",
+    "likely_poc": [
+      "https://github.com/crossbeam-rs/crossbeam/pull/533"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0019",
+    "likely_poc": [
+      "https://github.com/crossbeam-rs/crossbeam/pull/458"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0063",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0026",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0008",
+    "likely_poc": [
+      "https://github.com/microsoft/windows-rs/issues/1409"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0081",
+    "likely_poc": [
+      "https://github.com/tokio-rs/mio/issues/1386"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0019",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2019-0008",
+    "likely_poc": [
+      "https://github.com/Licenser/simdjson-rs/pull/27"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0070",
+    "likely_poc": [
+      "https://github.com/Voultapher/self_cell/issues/49"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0091",
+    "likely_poc": [
+      "https://github.com/tauri-apps/tauri/issues/5234"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0088",
+    "likely_poc": [
+      "https://github.com/tauri-apps/tauri/issues/4882"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0002",
+    "likely_poc": [
+      "https://github.com/aep/interfaces-rs"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0084",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0120",
+    "likely_poc": [
+      "https://github.com/mvertescher/libsbc-rs/issues/4"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0033",
+    "likely_poc": [
+      "https://github.com/hyperium/http/issues/352"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0034",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2019-0013",
+    "likely_poc": [
+      "https://github.com/mvdnes/spin-rs/issues/65"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2023-0031",
+    "likely_poc": [
+      "https://github.com/mvdnes/spin-rs/issues/148"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0031",
+    "likely_poc": [
+      "https://github.com/mvdnes/spin-rs/commit/7516c80"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0038",
+    "likely_poc": [
+      "https://github.com/graphql-rust/juniper/security/advisories/GHSA-4rx6-g5vg-5f3j"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0005",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2024-0009",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0165",
+    "likely_poc": [
+      "https://github.com/ImageOptim/mozjpeg-rust/issues/10",
+      "https://github.com/kornelski/rust-rgb/issues/35"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0147",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2018-0012",
+    "likely_poc": [
+      "https://github.com/brycx/orion/issues/46"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0145",
+    "likely_poc": [
+      "https://github.com/japaric/heapless/issues/181"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0039",
+    "likely_poc": [
+      "https://github.com/nathansizemore/simple-slab/issues/2"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0054",
+    "likely_poc": [
+      "https://github.com/dirs-dev/directories-rs"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0135",
+    "likely_poc": [
+      "https://github.com/BrokenLamp/slock-rs/issues/2"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0122",
+    "likely_poc": [
+      "https://github.com/google/flatbuffers/issues/6627"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0009",
+    "likely_poc": [
+      "https://github.com/google/flatbuffers/issues/5825"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0028",
+    "likely_poc": [
+      "https://github.com/google/flatbuffers/issues/5530"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0045",
+    "likely_poc": [
+      "https://github.com/actix/actix-net/issues/160"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0013",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0050",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2022-0056",
+    "likely_poc": [
+      "https://github.com/aweinstock314/rust-clipboard/issues/91",
+      "https://github.com/aweinstock314/rust-clipboard/issues/90"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0095",
+    "likely_poc": [
+      "https://github.com/chris-morgan/mopa/issues/13"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2022-0061",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0044",
+    "likely_poc": [
+      "https://github.com/SergioBenitez/Rocket/issues/1534"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2020-0028",
+    "likely_poc": [
+      "https://github.com/SergioBenitez/Rocket/issues/1312"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2021-0112",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0136",
+    "likely_poc": [
+      "https://github.com/ratel-rust/toolshed/issues/12"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2019-0032",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0036",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2021-0017",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0010",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2020-0068",
+    "likely_poc": [
+      "https://github.com/multiformats/rust-multihash/pull/72"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2018-0011",
+    "likely_poc": []
+  },
+  {
+    "id": "RUSTSEC-2023-0017",
+    "likely_poc": [
+      "https://github.com/tylerhawkes/maligned/issues/5"
+    ]
+  },
+  {
+    "id": "RUSTSEC-2024-0015",
+    "likely_poc": [
+      "https://github.com/iredelmeier/filesystem-rs/pull/29"
+    ]
+  }
+]

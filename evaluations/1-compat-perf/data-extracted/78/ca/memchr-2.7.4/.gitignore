@@ -1,0 +1,9 @@
+.*.swp
+doc
+tags
+examples/ss10pusa.csv
+build
+target
+scratch*
+bench_large/huge
+tmp/

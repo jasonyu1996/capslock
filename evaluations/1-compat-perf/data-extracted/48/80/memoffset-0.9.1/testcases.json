@@ -1,0 +1,68 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">offset_of::tests::const_fn_offset": false,
+      ">offset_of::tests::const_offset": false,
+      ">offset_of::tests::const_offset_interior_mutable": false,
+      ">offset_of::tests::inside_generic_method": false,
+      ">offset_of::tests::offset_simple": false,
+      ">offset_of::tests::offset_simple_packed": false,
+      ">offset_of::tests::offset_union": false,
+      ">offset_of::tests::path": false,
+      ">offset_of::tests::test_raw_field": false,
+      ">offset_of::tests::test_raw_field_tuple": false,
+      ">offset_of::tests::test_raw_field_union": false,
+      ">offset_of::tests::test_tuple_offset": false,
+      ">offset_of::tests::tuple_struct": false,
+      ">span_of::tests::ig_test": false,
+      ">span_of::tests::span_forms": false,
+      ">span_of::tests::span_simple": false,
+      ">span_of::tests::span_simple_packed": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">offset_of::tests::const_fn_offset": false,
+      ">offset_of::tests::const_offset": false,
+      ">offset_of::tests::const_offset_interior_mutable": false,
+      ">offset_of::tests::inside_generic_method": false,
+      ">offset_of::tests::offset_simple": false,
+      ">offset_of::tests::offset_simple_packed": false,
+      ">offset_of::tests::offset_union": false,
+      ">offset_of::tests::path": false,
+      ">offset_of::tests::test_raw_field": false,
+      ">offset_of::tests::test_raw_field_tuple": false,
+      ">offset_of::tests::test_raw_field_union": false,
+      ">offset_of::tests::test_tuple_offset": false,
+      ">offset_of::tests::tuple_struct": false,
+      ">span_of::tests::ig_test": false,
+      ">span_of::tests::span_forms": false,
+      ">span_of::tests::span_simple": false,
+      ">span_of::tests::span_simple_packed": true
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">offset_of::tests::const_fn_offset": false,
+      ">offset_of::tests::const_offset": false,
+      ">offset_of::tests::const_offset_interior_mutable": false,
+      ">offset_of::tests::inside_generic_method": false,
+      ">offset_of::tests::offset_simple": false,
+      ">offset_of::tests::offset_simple_packed": false,
+      ">offset_of::tests::offset_union": false,
+      ">offset_of::tests::path": false,
+      ">offset_of::tests::test_raw_field": false,
+      ">offset_of::tests::test_raw_field_tuple": false,
+      ">offset_of::tests::test_raw_field_union": false,
+      ">offset_of::tests::test_tuple_offset": false,
+      ">offset_of::tests::tuple_struct": false,
+      ">span_of::tests::ig_test": false,
+      ">span_of::tests::span_forms": false,
+      ">span_of::tests::span_simple": false,
+      ">span_of::tests::span_simple_packed": false
+    }
+  }
+}

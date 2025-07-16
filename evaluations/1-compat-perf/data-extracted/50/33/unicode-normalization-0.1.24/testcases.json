@@ -1,0 +1,56 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">normalize::tests::test_hangul_composition": false,
+      ">quick_check::tests::test_stream_safe_nfc": false,
+      ">quick_check::tests::test_stream_safe_nfd": false,
+      ">stream_safe::tests::test_all_nonstarters": false,
+      ">stream_safe::tests::test_classify_nonstarters": false,
+      ">stream_safe::tests::test_simple": false,
+      ">test::test_is_combining_mark_ascii": false,
+      ">test::test_is_combining_mark_misc": false,
+      ">test::test_nfc": false,
+      ">test::test_nfd": false,
+      ">test::test_nfkc": false,
+      ">test::test_nfkd": false,
+      ">test::test_normalize_char": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">normalize::tests::test_hangul_composition": false,
+      ">quick_check::tests::test_stream_safe_nfc": false,
+      ">quick_check::tests::test_stream_safe_nfd": false,
+      ">stream_safe::tests::test_all_nonstarters": false,
+      ">stream_safe::tests::test_classify_nonstarters": false,
+      ">stream_safe::tests::test_simple": false,
+      ">test::test_is_combining_mark_ascii": false,
+      ">test::test_is_combining_mark_misc": false,
+      ">test::test_nfc": false,
+      ">test::test_nfd": false,
+      ">test::test_nfkc": false,
+      ">test::test_nfkd": false,
+      ">test::test_normalize_char": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">normalize::tests::test_hangul_composition": false,
+      ">quick_check::tests::test_stream_safe_nfc": false,
+      ">quick_check::tests::test_stream_safe_nfd": false,
+      ">stream_safe::tests::test_all_nonstarters": false,
+      ">stream_safe::tests::test_classify_nonstarters": false,
+      ">stream_safe::tests::test_simple": false,
+      ">test::test_is_combining_mark_ascii": false,
+      ">test::test_is_combining_mark_misc": false,
+      ">test::test_nfc": false,
+      ">test::test_nfd": false,
+      ">test::test_nfkc": false,
+      ">test::test_nfkd": false,
+      ">test::test_normalize_char": false
+    }
+  }
+}

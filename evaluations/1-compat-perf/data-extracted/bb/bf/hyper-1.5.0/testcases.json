@@ -1,0 +1,14 @@
+{
+  "capslock": {
+    "success": false,
+    "tests": {}
+  },
+  "miri": {
+    "success": false,
+    "tests": {}
+  },
+  "x86_64": {
+    "success": false,
+    "tests": {}
+  }
+}

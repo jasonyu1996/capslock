@@ -1,0 +1,41 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">tests::test_defer": false,
+      ">tests::test_defer_success_1": false,
+      ">tests::test_defer_success_2": false,
+      ">tests::test_defer_unwind_1": false,
+      ">tests::test_defer_unwind_2": false,
+      ">tests::test_dropped_once_when_not_run": false,
+      ">tests::test_into_inner": false,
+      ">tests::test_only_dropped_by_closure_when_run": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">tests::test_defer": false,
+      ">tests::test_defer_success_1": false,
+      ">tests::test_defer_success_2": false,
+      ">tests::test_defer_unwind_1": false,
+      ">tests::test_defer_unwind_2": false,
+      ">tests::test_dropped_once_when_not_run": false,
+      ">tests::test_into_inner": false,
+      ">tests::test_only_dropped_by_closure_when_run": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">tests::test_defer": false,
+      ">tests::test_defer_success_1": false,
+      ">tests::test_defer_success_2": false,
+      ">tests::test_defer_unwind_1": false,
+      ">tests::test_defer_unwind_2": false,
+      ">tests::test_dropped_once_when_not_run": false,
+      ">tests::test_into_inner": false,
+      ">tests::test_only_dropped_by_closure_when_run": false
+    }
+  }
+}

@@ -1,0 +1,39 @@
+dist: bionic
+language: rust
+
+env:
+  global:
+    - CRATE_NAME=cadical
+
+matrix:
+  include:
+    - env: TARGET=x86_64-unknown-linux-gnu
+    - env: TARGET=x86_64-pc-windows-gnu
+    - env: TARGET=x86_64-pc-windows-msvc
+      os: windows
+    - env: TARGET=x86_64-apple-darwin
+      os: osx
+    - env: TARGET=x86_64-unknown-linux-gnu
+      rust: nightly
+    - env: TARGET=i686-unknown-linux-gnu
+    - env: TARGET=aarch64-linux-android
+    - env: TARGET=aarch64-apple-ios
+    - env: TARGET=aarch64-unknown-linux-gnu
+    - env: TARGET=x86_64-unknown-netbsd
+    - env: TARGET=x86_64-unknown-freebsd
+    - env: TARGET=armv7-unknown-linux-gnueabihf
+    - env: TARGET=x86_64-unknown-linux-musl
+
+before_install:
+  - rustup self update
+
+script:
+  - cargo build --features cpp-debug --verbose
+  - cargo test --features cpp-debug -- --nocapture
+  - cargo build --release --verbose
+  - cargo test --release -- --nocapture
+
+sudo: false
+
+notifications:
+  email: false

@@ -1,0 +1,4 @@
+target
+scripts/tmp
+*.pyc
+*.txt

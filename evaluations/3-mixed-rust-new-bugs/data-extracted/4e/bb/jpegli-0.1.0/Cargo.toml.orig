@@ -1,0 +1,31 @@
+[package]
+authors = [
+    "Kornel <kornel@geekhood.net>",
+    "Piotr Rogowski <piotrekrogowski@gmail.com>",
+]
+categories = ["multimedia::images"]
+description = "Higher-level wrapper for Jpegli library"
+documentation = "https://docs.rs/jpegli"
+edition = "2021"
+homepage = "https://github.com/Szpadel/jpegli-rs"
+include = ["/README.md", "/Cargo.toml", "/src/*.rs", "LICENSE"]
+keywords = ["jpeg", "jpegli", "encoder", "decoder"]
+license = "BSD-3-Clause"
+name = "jpegli"
+readme = "README.md"
+repository = "https://github.com/Szpadel/jpegli-rs"
+rust-version = "1.71"
+version = "0.1.0"
+
+[dependencies]
+arrayvec = "0.7.4"
+jpegli-sys = { version = "0.1.0+0.10.2" }
+libc = "0.2.150"
+rgb = { version = "0.8.34", features = ["as-bytes"] }
+
+[dev-dependencies]
+bytemuck = "1.12.1"
+
+[package.metadata.docs.rs]
+rustdoc-args = ["--generate-link-to-definition"]
+targets = ["x86_64-unknown-linux-gnu"]

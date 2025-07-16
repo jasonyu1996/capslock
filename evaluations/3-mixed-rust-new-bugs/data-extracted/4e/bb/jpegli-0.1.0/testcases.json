@@ -1,0 +1,68 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">colorspace::test": false,
+      ">compress::convert_colorspace": false,
+      ">compress::write_mem": false,
+      ">decompress::buffer_into_inner": false,
+      ">decompress::drops_reader": false,
+      ">decompress::file_no_trailer": false,
+      ">decompress::file_trailer": false,
+      ">decompress::file_trailer_bytes_left": false,
+      ">decompress::mem_no_trailer": false,
+      ">decompress::mem_trailer": false,
+      ">decompress::no_markers": false,
+      ">decompress::read_file": false,
+      ">decompress::read_file_rgb": false,
+      ">decompress::read_incomplete_file": false,
+      ">qtable::scaling": false,
+      ">recompress": false,
+      ">writedst::w": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">colorspace::test": false,
+      ">compress::convert_colorspace": false,
+      ">compress::write_mem": false,
+      ">decompress::buffer_into_inner": false,
+      ">decompress::drops_reader": false,
+      ">decompress::file_no_trailer": false,
+      ">decompress::file_trailer": false,
+      ">decompress::file_trailer_bytes_left": false,
+      ">decompress::mem_no_trailer": false,
+      ">decompress::mem_trailer": false,
+      ">decompress::no_markers": false,
+      ">decompress::read_file": false,
+      ">decompress::read_file_rgb": false,
+      ">decompress::read_incomplete_file": false,
+      ">qtable::scaling": false,
+      ">recompress": false,
+      ">writedst::w": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">colorspace::test": false,
+      ">compress::convert_colorspace": false,
+      ">compress::write_mem": false,
+      ">decompress::buffer_into_inner": false,
+      ">decompress::drops_reader": false,
+      ">decompress::file_no_trailer": false,
+      ">decompress::file_trailer": false,
+      ">decompress::file_trailer_bytes_left": false,
+      ">decompress::mem_no_trailer": false,
+      ">decompress::mem_trailer": false,
+      ">decompress::no_markers": false,
+      ">decompress::read_file": false,
+      ">decompress::read_file_rgb": false,
+      ">decompress::read_incomplete_file": false,
+      ">qtable::scaling": false,
+      ">recompress": false,
+      ">writedst::w": false
+    }
+  }
+}

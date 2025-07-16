@@ -1,0 +1,28 @@
+{
+  "capslock": {
+    "success": false,
+    "tests": {}
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">error::tests::test_size": false,
+      ">common::test_diff": false,
+      ">common::test_huge": false,
+      ">common::test_multithreading": false,
+      ">common::test_small": false,
+      ">common::test_zero": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">error::tests::test_size": false,
+      ">common::test_diff": false,
+      ">common::test_huge": false,
+      ">common::test_multithreading": false,
+      ">common::test_small": false,
+      ">common::test_zero": false
+    }
+  }
+}

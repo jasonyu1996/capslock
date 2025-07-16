@@ -1,0 +1,20 @@
+{
+  "capslock": {
+    "success": true,
+    "tests": {
+      ">lock::mutex::tests::test_mutex_guard_debug_not_recurse": false
+    }
+  },
+  "miri": {
+    "success": true,
+    "tests": {
+      ">lock::mutex::tests::test_mutex_guard_debug_not_recurse": false
+    }
+  },
+  "x86_64": {
+    "success": true,
+    "tests": {
+      ">lock::mutex::tests::test_mutex_guard_debug_not_recurse": false
+    }
+  }
+}
