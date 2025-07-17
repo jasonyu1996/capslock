@@ -1,4 +1,5 @@
 #!/bin/sh
 
-docker run --rm -v $(pwd)/src:/capslock-tools -w /capslock-tools capslock \
+git submodule update --init --recursive
+docker run --rm -v $(realpath src):/capslock-tools -w /capslock-tools capslock \
     /bin/sh -c '(cd qemu && sh /scripts/build/qemu.sh) && (cd llvm && sh /scripts/build/llvm.sh) && (cd rust && sh /scripts/build/rust.sh)'

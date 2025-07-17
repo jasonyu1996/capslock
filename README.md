@@ -1,14 +1,17 @@
 
 ## CapsLock Artefacts
 
+This repository contains the artefacts for the CCS '25 paper "Securing Mixed Rust with Hardware Capabilities."
+
 ### Setup
 
-Make sure you have Docker installed on your system.
+Make sure you have Docker installed on your system, as we use Docker to set up the dependencies.
 
-You can build the Docker image from the provided `Dockerfile`:
 ```
-./build-docker
+./build-docker # build Docker image
+./build-tools # build software artefacts
 ```
+
 
 ### Usage
 
@@ -20,18 +23,6 @@ Build a Rust project:
 Run a binary:
 ```bash
 ./docker-run <path-to-riscv-elf-binary>
-```
-
-NOTE: The Docker container will run with UID 1000. Please make sure that
-the files are accessible to it. You can achieve this by running the following
-in the host environment:
-```
-chown -R 1000:1000 evaluations src tests
-```
-
-You may also need to open up permissions
-```
-chmod -R 777 evaluations src tests
 ```
 
 ### Quick Tests
