@@ -1,12 +1,12 @@
-[submodule "setup/src/llvm"]
+[submodule "src/llvm"]
 	path = src/llvm
-	url = https://github.com/project-starch/capstone-llvm.git
-	branch = artefact
-[submodule "setup/src/rust"]
+	url = https://github.com/project-starch/capslock-llvm.git
+	branch = master
+[submodule "src/rust"]
 	path = src/rust
-	url = https://github.com/project-starch/capstone-rust.git
-	branch = artefact
-[submodule "setup/src/qemu"]
+	url = https://github.com/project-starch/capslock-rust.git
+	branch = master
+[submodule "src/qemu"]
 	path = src/qemu
-	url = https://github.com/project-starch/capstone-qemu.git
-	branch = capslock-maintain
+	url = https://github.com/project-starch/capslock-qemu.git
+	branch = master
