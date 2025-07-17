@@ -5,13 +5,19 @@ This repository contains the artefacts for the CCS '25 paper "Securing Mixed Rus
 
 ### Setup
 
-Make sure you have Docker installed on your system, as we use Docker to set up the dependencies.
-
+We use Docker to set up the dependencies.
+Make sure you have Docker installed on your system, and check
+```bash
+# you may need to add your user to the "docker" group
+docker run hello-world # make sure you can run Docker containers
+id -u # should be >= 1000
 ```
+
+Now run the following
+```bash
 ./build-docker # build Docker image
 ./build-tools # build software artefacts
 ```
-
 
 ### Usage
 
