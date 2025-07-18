@@ -1,7 +1,7 @@
 
 ## CapsLock Artefacts
 
-This repository contains the artefacts for the CCS '25 paper "Securing Mixed Rust with Hardware Capabilities."
+This repository contains the artefacts for the CCS '25 paper "[Securing Mixed Rust with Hardware Capabilities](https://arxiv.org/abs/2507.03344)."
 
 ### Setup
 
@@ -44,7 +44,8 @@ You can use `./docker-test` to run both tests.
 Simply run `./docker-eval1` through `./docker-eval3` to run the respective experiments.
 You can supply an optional argument to specify the number of CPU cores to use (default is 1).
 
-Details about the experiments can be found in the `evaluations` directory.
+Details about the experiments, including their estimated run-times and expected results
+can be found in the `evaluations` directory.
 
 ### License
 
