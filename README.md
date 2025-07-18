@@ -45,3 +45,7 @@ Simply run `./docker-eval1` through `./docker-eval3` to run the respective exper
 You can supply an optional argument to specify the number of CPU cores to use (default is 1).
 
 Details about the experiments can be found in the `evaluations` directory.
+
+### License
+
+Please see [LICENSE](/LICENSE).
