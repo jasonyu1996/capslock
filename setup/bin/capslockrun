@@ -1,3 +1,4 @@
 #!/bin/sh
 
-env -u LD_LIBRARY_PATH qemu-riscv64 -L /usr/riscv64-linux-gnu $@
+env -u LD_LIBRARY_PATH qemu-riscv64 -L /usr/riscv64-linux-gnu \
+    -E LD_PRELOAD=/capslock-tools/interpose/libinterpose.so $@
