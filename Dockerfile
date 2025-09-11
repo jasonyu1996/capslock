@@ -16,6 +16,7 @@ RUN apt-get build-dep -y llvm
 RUN apt-get install -y cmake
 RUN apt-get install -y parallel
 RUN apt-get install -y python3-matplotlib python3-numpy
+RUN apt-get install -y gdb-multiarch
 
 ARG UID=1000
 ARG GID=1000
@@ -38,5 +39,9 @@ ADD --chown=user:user bin /capslock/bin
 
 ENV PATH="/capslock/bin:/capslock-tools/qemu/installation/bin:${PATH}" \
     LD_LIBRARY_PATH="/capslock-tools/llvm/installation/lib"
+
+USER root
+RUN apt-get install -y tmux
+USER user
 
 ENTRYPOINT ["/capslock/bin/capslockentry"]

@@ -31,6 +31,11 @@ Run a binary:
 ./docker-run <path-to-riscv-elf-binary>
 ```
 
+You can also attach GDB, which can help locate the source of a violation:
+```bash
+./docker-gdb <path-to-riscv-elf-binary>
+```
+
 ### Quick Tests
 
 You can look at the `tests` directory for some quick tests of your setup.

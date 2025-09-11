@@ -1,0 +1,6 @@
+#!/bin/sh
+
+tmux new-session -d -s capslock \
+    "env -u LD_LIBRARY_PATH qemu-riscv64 -g 8000 -L /usr/riscv64-linux-gnu -E LD_PRELOAD=/capslock-tools/interpose/libinterpose.so $@"
+tmux split-window -h "gdb-multiarch -ex 'target remote :8000' --args $@"
+tmux attach -t capslock
